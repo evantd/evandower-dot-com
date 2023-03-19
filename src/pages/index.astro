@@ -1,24 +1,13 @@
 ---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const pageTitle = "Home";
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Evan Dower</title>
-  </head>
-  <body>
-    <a href="/">Home</a>
-    <a href="/about/">About</a>
-    <a href="/blog/">Blog</a>
-
-    <h1>Evan Dower</h1>
-    <p>
-      I'm currently working on transferring content from Weebly now that using a
-      custom domain with them is no longer free. Plus, as a software engineer, I
-      suppose I ought to have a "real" site anyway.
-    </p>
-  </body>
-</html>
+<BaseLayout pageTitle={pageTitle}>
+  <p>
+    I'm currently working on transferring content from Weebly now that using a
+    custom domain with them is no longer free. Plus, as a software engineer, I
+    suppose I ought to have a "real" site anyway.
+  </p>
+</BaseLayout>
