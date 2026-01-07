@@ -11,6 +11,10 @@ importers:
       astro:
         specifier: ^5.16.7
         version: 5.16.7(rollup@4.55.1)(typescript@5.9.3)
+    devDependencies:
+      '@rollup/rollup-linux-x64-gnu':
+        specifier: ^4.55.1
+        version: 4.55.1
 
 packages:
 
@@ -1688,8 +1692,7 @@ snapshots:
   '@rollup/rollup-linux-s390x-gnu@4.55.1':
     optional: true
 
-  '@rollup/rollup-linux-x64-gnu@4.55.1':
-    optional: true
+  '@rollup/rollup-linux-x64-gnu@4.55.1': {}
 
   '@rollup/rollup-linux-x64-musl@4.55.1':
     optional: true

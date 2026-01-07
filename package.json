@@ -22,8 +22,17 @@
       "sharp"
     ],
     "supportedArchitectures": {
-      "os": ["darwin", "linux"],
-      "cpu": ["x64", "arm64"]
+      "os": [
+        "darwin",
+        "linux"
+      ],
+      "cpu": [
+        "x64",
+        "arm64"
+      ]
     }
+  },
+  "devDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "^4.55.1"
   }
 }
