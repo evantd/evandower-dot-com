@@ -1,14 +1,24 @@
 ---
+import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 
 const pageTitle = "Blog";
+const posts = await getCollection("blog");
+const sortedPosts = posts.sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <p>This is my "Blog" page.</p>
+  <p>This is where I write about things.</p>
   <ul>
-    <li><a href="/posts/post-1/">Post 1</a></li>
-    <li><a href="/posts/post-2/">Post 2</a></li>
-    <li><a href="/posts/post-3/">Post 3</a></li>
+    {sortedPosts.map((post) => (
+      <li>
+        <a href={`/blog/${post.id}/`}>{post.data.title}</a>
+        <time datetime={post.data.pubDate.toISOString()}>
+          {post.data.pubDate.toLocaleDateString()}
+        </time>
+      </li>
+    ))}
   </ul>
 </BaseLayout>
