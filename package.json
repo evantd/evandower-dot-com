@@ -16,6 +16,10 @@
     "onlyBuiltDependencies": [
       "esbuild",
       "sharp"
-    ]
+    ],
+    "supportedArchitectures": {
+      "os": ["darwin", "linux"],
+      "cpu": ["x64", "arm64"]
+    }
   }
 }
