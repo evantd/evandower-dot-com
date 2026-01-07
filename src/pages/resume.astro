@@ -1,0 +1,168 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const pageTitle = "Resume";
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <p><strong>Email:</strong> github-resume@evandower.com<br />
+  <strong>Phone:</strong> +1 (717) 673-8268 (voice, text, Signal, WhatsApp)<br />
+  <strong>Location:</strong> Remote/Seattle, WA, USA<br />
+  <strong>Visa Status:</strong> Seeking sponsorship for relocation to Australia or New Zealand</p>
+
+  <h2>Professional Summary</h2>
+  <ul>
+    <li>Rapidly delivers results even in new domains due to quickly gaining in-depth knowledge</li>
+    <li>Delivers incrementally, with a focus on using data to determine whether further investment makes business sense</li>
+    <li>Supports team cohesion & productivity by supporting teammates' growth</li>
+  </ul>
+
+  <h2>Core Competencies</h2>
+  <p><strong>Frontend & Platform Engineering:</strong> JavaScript, TypeScript, React, Module Federation, Webpack, Micro-frontends, Performance Optimization<br />
+  <strong>Backend & Infrastructure:</strong> Java, Node.js, Spring, Distributed Systems, API Design, CI/CD<br />
+  <strong>Data & Analytics:</strong> Spark (Scala), Data Pipeline Optimization, A/B Testing, Performance Metrics<br />
+  <strong>Leadership & Collaboration:</strong> Technical Mentorship, Cross-functional Coordination, Architecture Design, Code Review</p>
+
+  <h2>Experience</h2>
+
+  <h3>Indeed, Seattle, WA</h3>
+  <p>At Indeed, I evolved from individual contributor to engineering manager and back to senior IC, gaining valuable leadership experience while deepening my technical expertise. After successfully managing a 6-person engineering team for two years, I made the strategic decision to return to hands-on technical work, driven by the personal satisfaction I derive from direct problem-solving, my desire to maximize impact through technical contribution, and my eagerness to learn new domains. This transition allowed me to pivot into frontend platform engineering, where I could apply my leadership skills while building critical infrastructure used across the entire organization.</p>
+
+  <h4>Staff Software Engineer (Frontend Platforms) - April 2019 to present</h4>
+
+  <p><strong>Platform Development & Architecture:</strong></p>
+  <ul>
+    <li>Built & productionized micro-frontend framework, decoupling hundreds of content provider teams & dozens of consuming webapp teams to enable rapid, independent iteration</li>
+    <li>Owned global header deployed across all Indeed pages & webapps while expanding coverage, iterating on content, and migrating to Indeed's new design system</li>
+    <li>Designed & implemented JavaScript dependency sharing solution using webpack module federation, reducing page weight by eliminating duplicate downloads across decoupled components</li>
+    <li>Led exploration/validation of webpack module federation as UI decoupling mechanism, establishing expertise as one of Indeed's few subject matter experts for this technology</li>
+    <li>Developed shared scope and libraries that abstract complex module federation details from customers</li>
+    <li>Delivered platform for distributing non-UI capabilities (e.g. observability, cookie compliance, etc.) across all Indeed products</li>
+  </ul>
+
+  <p><strong>Performance & Optimization:</strong></p>
+  <ul>
+    <li>Optimized performance impact & safety of global navigation header, reducing initial bundle size by 48%, improving isolation, and enabling dependency sharing via module federation</li>
+    <li>Delivered shared-deps event loop optimization achieving 0.68% overall worldwide site speed improvement, resulting in 0.34% increase in Homepage Job Clicks and 0.31% increase in Total Job Applications</li>
+    <li>Reduced GNAV payload size by 84% to enhance Indeed Mobile performance</li>
+    <li>Collaborated with Marketing to remove Google DCM tag from mobile search, achieving 1-3% site speed improvements</li>
+    <li>Authored comprehensive 2024 Site Speed Opportunities analysis that formed the site speed roadmap for Job Seeker products</li>
+    <li>Enhanced performance of data analysis pipeline by >10x while simultaneously improving correctness</li>
+  </ul>
+
+  <p><strong>Technical Leadership & Problem Solving:</strong></p>
+  <ul>
+    <li>Architected and led design system v7 dual-building infrastructure enabling safe A/B testing across multiple product surfaces, coordinating cross-org sequencing and risk management that delivered seamless rollout of critical priority-1 cross-organizational upgrade</li>
+    <li>Delivered 8% Homepage performance improvement through GraphQL bundle optimization and dependency upgrades, achieving VP-level recognition and enabling neutral A/B impact that "singlehandedly saved this priority-1 cross-organizational initiative"</li>
+    <li>Led React 18 and design system v6 upgrade initiative across 6 critical Job Seeker Frontend surfaces, delivering green pipelines and enabling Phase 2 rollout</li>
+    <li>Collaborated with PMs and Design to set browser support policy for jobseeker product area, analyzing cost/benefit trade-offs and creating enforceable guidelines to reduce technical debt</li>
+    <li>Owned technical execution of pnpm migration for mobile platform to facilitate centralization within mono-repo after previous rollback</li>
+    <li>Drove design system v7 compliance across all Job Seeker frontend platform surfaces, collaborating cross-functionally with Design System team to implement dark mode support through IndeedThemeProvider</li>
+    <li>Facilitated smooth adoption of module federation across Indeed by building libraries that act as guard-rails around core features with sharp edges, including <a href="https://github.com/webpack/webpack/pull/16031">fixing bugs in webpack itself</a></li>
+    <li>Diagnosed and resolved employer frontend platform race condition issue by upgrading render service from Preact to React 16, simplifying development experience</li>
+    <li>Prevented production incidents by identifying nuanced dependency issues between core systems</li>
+    <li>Enhanced automated testing and streamlined release processes to achieve full push-on-green CI/CD</li>
+    <li>Orchestrated failure modes brainstorming and improved deployment processes including multi-branch builds and auto-ticket management</li>
+    <li>Rapidly investigated & resolved high severity production issues</li>
+    <li>Served as primary owner of critical index builders supporting Job Search organisation SLOs, resolving 2 major incidents with Data Platform coordination</li>
+  </ul>
+
+  <p><strong>Cross-Organizational Impact:</strong></p>
+  <ul>
+    <li>Pioneered AI-driven developer productivity through TEA (Talent Enablement Automation) hackathon project, creating self-evaluation system using daily summaries and peer feedback, establishing community adoption and inspiring company-wide AI experimentation</li>
+    <li>Influenced team strategy through participation in 2025H1 planning, providing effort estimates and strategic direction for key initiatives</li>
+    <li>Identified and scoped platform improvement opportunities including sitespeed observability and beachball migration consolidation</li>
+    <li>Provided technical enablement for messaging team's "new message" feature implementation in global navigation</li>
+    <li>Allocated 25% time to on-call duties and platform maintenance, responding to alerts and support requests as subject matter expert</li>
+    <li>Represented UI Platform Web US in cross-team tech leads sync for Job-Seeker Journey organisation (6-12 teams), expanding influence beyond immediate team</li>
+    <li>Served as main point-of-contact for VM2 security vulnerability, coordinating resolution across teams and orchestrating deprecation</li>
+    <li>Delivered architectural guidance to multiple teams including JSMA on native navigation and Viewjob team on re-use initiatives</li>
+    <li>Championed React 18 and design system v6 rollouts across Indeed, advocating for upgrades and identifying implementation paths</li>
+    <li>Designed & planned initiative to add page weight observability to all Indeed products</li>
+  </ul>
+
+  <p><strong>Mentorship & Community:</strong></p>
+  <ul>
+    <li>Mentored engineers across teams on flame-graph analysis, performance triage, and debugging techniques, teaching investigative skills that accelerated problem-solving and upskilled data-driven investigative abilities organization-wide</li>
+    <li>Provided technical mentorship and stakeholder management coaching to team members, including formal mentorship relationship with junior engineer transitioning to software engineering role</li>
+    <li>Mentored teammates and engineers across the company, helping them break work into incremental deliverables while prioritising early risk-discovery & risk-reduction</li>
+    <li>Coached Sr. Cloud Solutions Engineer via Mentor Connect on defining and spreading best practices across the company</li>
+    <li>Guided 100+ external contributors to Global Nav platform through code reviews and technical direction</li>
+  </ul>
+
+  <p><em>Tech Stack: JavaScript, TypeScript, NodeJS, React, Emotion, Webpack, Module Federation, Cypress, Java, Spark (Scala), DataDog, Terraform</em></p>
+
+  <h4>Software Engineer / Technical Delivery Manager (SMB Hiring) - July 2017 to March 2019</h4>
+  <ul>
+    <li>Managed performance & development of 6 software engineers to help them reach their potential</li>
+    <li>Secured team buy-in to initiate development processes and promote best practices ensuring team efficiency</li>
+    <li>Coordinated with cross-functional team members, including 1 designer, 1 quality assurance engineer, 1 data scientist, & 2 product managers</li>
+    <li>Collaborated with other teams to achieve mutual business goals</li>
+    <li>Partnered with other teams to form cross-organisation plans</li>
+    <li>Directed business & technical strategy of the team</li>
+    <li>Contributed to design reviews throughout the company</li>
+    <li>Led team to achieve quarterly goals including >3% of jobs with context-specific questions and 116 new question types (surpassing goal of 100)</li>
+    <li>Increased jobs with screener questions in Italy, Spain & France by 68% (from 44% to 74%) while maintaining >60% acceptance rate</li>
+    <li>Delivered high utility question identification, increasing employer positive response rate by 8%</li>
+    <li>Built automation infrastructure for dev-free question creation, including proctor test creation and automated verification screenshots</li>
+    <li>Coordinated event handling & prevention across SMB Hiring teams, providing technical leadership during production issues</li>
+  </ul>
+
+  <h4>Senior Software Engineer / Tech Lead (SMB Hiring) - January 2017 to June 2017</h4>
+  <ul>
+    <li>Guided the technical direction of the team</li>
+    <li>Mentored 4 software engineers to help them grow their technical skills</li>
+    <li>Collaborated with other teams to help them & us achieve business goals</li>
+    <li>Delivered 6 new question types, increasing total by 50%, including innovative "firsts": localized education (first locale-dependent question), nursing degree (first vertical-specific question), and shift availability (first multi-select question)</li>
+    <li>Maintained service reliability with over 5 9's uptime on almost 1.5B calls</li>
+  </ul>
+
+  <h4>Software Engineer (SMB Hiring) - August 2015 to December 2016</h4>
+
+  <p><strong>Leadership:</strong></p>
+  <ul>
+    <li>Worked with product management to collaboratively define data-driven quarterly goals</li>
+    <li>Led a team of 4 engineers to track & meet those goals</li>
+    <li>Participated constructively in design reviews</li>
+  </ul>
+
+  <p><strong>Individual Contributions:</strong></p>
+  <ul>
+    <li>Demonstrated proof-of-concept for increasing job requirement suggestion acceptance rate by 15% via A/B testing</li>
+    <li>Achieved ~1.3 million question suggestions accepted in Q4 2016 with order-of-magnitude improvement quarter-over-quarter</li>
+    <li>Increased overall suggested question acceptance rate from 25% to 43% and outside-US acceptance rate from 18% to 32%</li>
+    <li>Designed & implemented client-focused data-driven API to help decouple client & service changes (Java, Spring, Jackson, Protobuf)</li>
+    <li>Introduced numerous best-practices and tools to reduce coding errors, and guided teams across the company in their use (Immutables, Jackson, Fongo, Checkstyle, Spring-Data-MongoDB, AssertJ)</li>
+    <li>Created abstraction between persistence layer and API, introducing Spring Data to support key team initiatives</li>
+    <li>Implemented Pig script to filter out underperforming suggestions, achieving ~15% suggestion acceptance improvement for specific job titles</li>
+    <li>Improved location service algorithm and JUnit parameter support as Indeed-wide infrastructure contributions</li>
+    <li>Dug deep into other teams' code in order to address production issues as well as internal productivity issues (Python, Django, Java)</li>
+  </ul>
+
+  <h3>Amazon, Seattle, WA</h3>
+  <p>During my decade at Amazon, I evolved into a full-stack developer with expertise in distributed systems, developer productivity tools, and large-scale infrastructure. I demonstrated technical leadership through mentoring and delivering systems that served thousands of developers and saved millions in operational costs.</p>
+
+  <h4>Software Development Engineer (Developer Productivity Tools) - December 2006 to July 2015</h4>
+
+  <p><strong>Key Achievements:</strong></p>
+  <ul>
+    <li><strong>Cost Optimization:</strong> Improved deployment scheduling algorithm from O(n³) to O(n²), enabling Amazon to scale deployment capacity for Q4 loads and potentially saving millions of dollars</li>
+    <li><strong>Infrastructure Ownership:</strong> Led implementation of highly available revision control supporting >300k Git repositories for >10k developers</li>
+    <li><strong>Process Automation:</strong> Designed and delivered company-wide continuous deployment system, modelling and automating ~40k release processes</li>
+    <li><strong>Vendor Cost Reduction:</strong> Owned internal revision control systems with monitoring, throttling, and hot standby capabilities, enabling Amazon to terminate Perforce support contract and save ~$1M annually</li>
+    <li><strong>Developer Tools:</strong> Built internal code browser with innovative features including always-on blame, visual DAGs, and pull-requests, serving >10k users company-wide</li>
+  </ul>
+
+  <p><em>Tech Stack: Java, Ruby on Rails, Python, Git, Oracle, DynamoDB, AngularJS, Perl</em></p>
+
+  <h4>Software Development Engineer (Ordering) - March 2005 to December 2006</h4>
+  <ul>
+    <li>Owned marketplace seller order management system used by all Amazon sellers (backend services and web frontends)</li>
+    <li>Managed reporting and optimization of stuck/delayed order metrics, coordinating cross-team resolution of root causes</li>
+  </ul>
+
+  <h2>Education</h2>
+  <p>University of Washington, Seattle<br />
+  Bachelor of Science (B.S.), Computer Science<br />
+  2001 - 2005</p>
+</BaseLayout>
