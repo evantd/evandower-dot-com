@@ -1,3 +1,112 @@
 :root {
-    --accent: cyan;
+  --accent: cyan;
+}
+
+/* Tighten up SimpleCSS defaults */
+body {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+h4, h5, h6 {
+  font-size: 1.1rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+p, ul, ol {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+blockquote {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+  padding: 0.5rem 1rem;
+}
+
+table {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+th, td {
+  padding: 0.4rem 0.6rem;
+}
+
+/* Override SimpleCSS display:block and margin:auto for floated images */
+.blog-content img[style*="float"] {
+  display: block;
+  margin-inline: unset !important;
+}
+
+/* Clear float at end of blog content */
+.blog-content::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Print styles for quick reference cards */
+@media print {
+  header, nav, .parenting-nav, .step-nav {
+    display: none !important;
+  }
+
+  body {
+    font-size: 11pt;
+    line-height: 1.3;
+  }
+
+  h1 {
+    font-size: 16pt;
+    margin-bottom: 0.25rem;
+  }
+
+  h2 {
+    font-size: 13pt;
+    margin-top: 0.75rem;
+    margin-bottom: 0.25rem;
+  }
+
+  h3 {
+    font-size: 11pt;
+    margin-top: 0.5rem;
+    margin-bottom: 0.25rem;
+  }
+
+  p, ul, ol, blockquote {
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+  }
+
+  blockquote {
+    padding: 0.25rem 0.5rem;
+  }
+
+  th, td {
+    padding: 0.2rem 0.4rem;
+  }
+
+  pre, code {
+    font-size: 9pt;
+  }
 }

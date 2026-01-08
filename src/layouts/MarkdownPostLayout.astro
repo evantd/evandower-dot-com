@@ -7,5 +7,7 @@ const { frontmatter } = Astro.props;
 <BaseLayout pageTitle={frontmatter.title}>
   <p class="post-date">{frontmatter.pubDate.toLocaleDateString()}</p>
   {frontmatter.description && <p><em>{frontmatter.description}</em></p>}
-  <slot />
+  <div class="blog-content">
+    <slot />
+  </div>
 </BaseLayout>

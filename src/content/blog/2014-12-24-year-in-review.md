@@ -5,7 +5,7 @@ description: "Annual letter to family and friends"
 tags: ["the buzz"]
 ---
 
-![Evan with dogs at a mossy tree](/images/blog/2014/evan-with-dogs-at-mossy-tree.jpg)
+<img src="/images/blog/2014/evan-with-dogs-at-mossy-tree.jpg" alt="Evan with dogs at a mossy tree" style="float: right; max-width: 200px; margin: 0 0 1rem 1.5rem;" />
 
 Hi family & friends!
 
