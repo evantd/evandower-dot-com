@@ -5,6 +5,9 @@ phase: 1
 phaseName: "Regulated Parent, Safer Home"
 ---
 
+> 📋 **[Quick Reference Card](/parenting/cards/week-02-card/)** — Print this for the fridge
+
+
 **Phase:** 1 — Regulated Parent, Safer Home  
 **Duration:** 1 week minimum (repeat if needed)
 

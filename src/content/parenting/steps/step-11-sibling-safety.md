@@ -5,6 +5,9 @@ phase: 4
 phaseName: "Boundaries, Siblings, Problem-Solving"
 ---
 
+> 📋 **[Quick Reference Card](/parenting/cards/week-11-card/)** — Print this for the fridge
+
+
 **Phase:** 4 — Boundaries, Siblings, Problem-Solving  
 **Duration:** 1 week minimum (repeat if needed)
 

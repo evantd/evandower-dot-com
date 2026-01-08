@@ -5,6 +5,9 @@ phase: 2
 phaseName: "Connect & Name Feelings"
 ---
 
+> 📋 **[Quick Reference Card](/parenting/cards/week-04-card/)** — Print this for the fridge
+
+
 **Phase:** 2 — Connect & Name Feelings  
 **Duration:** 1 week minimum (repeat if needed)
 

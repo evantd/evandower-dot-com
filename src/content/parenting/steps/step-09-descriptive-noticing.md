@@ -5,6 +5,9 @@ phase: 3
 phaseName: "Cooperation Without Coercion"
 ---
 
+> 📋 **[Quick Reference Card](/parenting/cards/week-09-card/)** — Print this for the fridge
+
+
 **Phase:** 3 — Cooperation Without Coercion  
 **Duration:** 1 week minimum (repeat if needed)
 
