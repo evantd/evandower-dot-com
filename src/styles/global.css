@@ -1,71 +1,192 @@
+/* Minimal styles for evandower.com */
+
 :root {
-  --accent: cyan;
+  --text: #1a1a1a;
+  --text-muted: #666;
+  --bg: #fff;
+  --bg-header: #f4f6ff;
+  --accent: #00a5c8;
+  --border: #ddd;
+  --code-bg: #f5f5f5;
+  --max-width: 50rem;
 }
 
-/* Tighten up SimpleCSS defaults */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text: #e0e0e0;
+    --text-muted: #999;
+    --bg: #1a1a1a;
+    --bg-header: #252530;
+    --accent: #00d4ff;
+    --border: #444;
+    --code-bg: #2a2a2a;
+  }
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--bg);
+}
+
 body {
+  font-family: system-ui, -apple-system, sans-serif;
   font-size: 1rem;
-  line-height: 1.5;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg);
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
 }
 
-h1 {
-  font-size: 2rem;
-  margin-top: 0;
-  margin-bottom: 0.5rem;
+/* Layout */
+header {
+  border-bottom: 1px solid var(--border);
+  padding: 1.5rem 1rem 1rem;
 }
 
-h2 {
-  font-size: 1.5rem;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
+header nav {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 1.25rem;
 }
 
-h3 {
-  font-size: 1.25rem;
-  margin-top: 1.25rem;
-  margin-bottom: 0.5rem;
+body > *:not(header) {
+  max-width: var(--max-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
-h4, h5, h6 {
-  font-size: 1.1rem;
-  margin-top: 1rem;
-  margin-bottom: 0.5rem;
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.3;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
 }
+
+h1 { font-size: 2rem; margin-top: 0; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+h4, h5, h6 { font-size: 1.1rem; }
 
 p, ul, ol {
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
+  margin: 0.75em 0;
 }
 
+/* Links */
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* Horizontal rule */
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 1rem 0;
+}
+
+/* Blockquotes */
 blockquote {
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
+  margin: 1rem 0;
   padding: 0.5rem 1rem;
+  border-left: 3px solid var(--accent);
+  background: var(--bg-header);
 }
 
+blockquote > *:first-child { margin-top: 0; }
+blockquote > *:last-child { margin-bottom: 0; }
+
+/* Code */
+code {
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  font-size: 0.9em;
+  background: var(--code-bg);
+  padding: 0.15em 0.3em;
+  border-radius: 3px;
+}
+
+pre {
+  background: var(--code-bg);
+  padding: 1rem;
+  overflow-x: auto;
+  border-radius: 4px;
+  margin: 1rem 0;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* Tables */
 table {
-  margin-top: 0.75rem;
-  margin-bottom: 0.75rem;
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
 }
 
 th, td {
-  padding: 0.4rem 0.6rem;
+  text-align: left;
+  padding: 0.5rem;
+  border-bottom: 1px solid var(--border);
 }
 
-/* Override SimpleCSS display:block and margin:auto for floated images */
-.blog-content img[style*="float"] {
-  display: block;
-  margin-inline: unset !important;
+th {
+  font-weight: 600;
+  border-bottom-width: 2px;
 }
 
-/* Clear float at end of blog content */
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+/* Override for floated images - ensure proper spacing */
+.blog-content img[style*="float: right"] {
+  margin: 0 0 1rem 1.5rem;
+}
+
+.blog-content img[style*="float: left"] {
+  margin: 0 1.5rem 1rem 0;
+}
+
 .blog-content::after {
   content: "";
   display: table;
   clear: both;
 }
 
-/* Print styles for quick reference cards */
+/* Nav styling */
+nav a {
+  text-decoration: none;
+}
+
+.site-name {
+  font-size: 1.1rem;
+  margin-right: 0.5rem;
+}
+
+/* Muted text */
+.post-date, .phase-info {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+/* Print styles */
 @media print {
   header, nav, .parenting-nav, .step-nav {
     display: none !important;
@@ -73,40 +194,28 @@ th, td {
 
   body {
     font-size: 11pt;
-    line-height: 1.3;
+    line-height: 1.4;
+    color: #000;
+    background: #fff;
   }
 
-  h1 {
-    font-size: 16pt;
-    margin-bottom: 0.25rem;
-  }
-
-  h2 {
-    font-size: 13pt;
-    margin-top: 0.75rem;
-    margin-bottom: 0.25rem;
-  }
-
-  h3 {
-    font-size: 11pt;
-    margin-top: 0.5rem;
-    margin-bottom: 0.25rem;
-  }
+  h1 { font-size: 16pt; }
+  h2 { font-size: 13pt; margin-top: 0.75em; }
+  h3 { font-size: 11pt; margin-top: 0.5em; }
 
   p, ul, ol, blockquote {
-    margin-top: 0.25rem;
-    margin-bottom: 0.25rem;
+    margin: 0.4em 0;
   }
 
   blockquote {
     padding: 0.25rem 0.5rem;
   }
 
-  th, td {
-    padding: 0.2rem 0.4rem;
+  hr {
+    margin: 0.5rem 0;
   }
 
-  pre, code {
-    font-size: 9pt;
+  th, td {
+    padding: 0.25rem;
   }
 }
