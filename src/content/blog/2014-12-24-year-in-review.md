@@ -5,6 +5,8 @@ description: "Annual letter to family and friends"
 tags: ["the buzz"]
 ---
 
+![Evan with dogs at a mossy tree](/images/blog/2014/evan-with-dogs-at-mossy-tree.jpg)
+
 Hi family & friends!
 
 I wanted to tell everybody about my year, and it was way too much to put in a Christmas card, so here we are.
@@ -41,3 +43,5 @@ I'll be keeping myself busy as I get back to circus classes, but not as busy as 
 
 With love,
 Evan (and Gus & Elise)
+
+![Gus and Elise walking on a forest trail](/images/blog/2014/gus-and-elise-walking-forest-trail.jpg)
