@@ -1,0 +1,115 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const pageTitle = "Parenting Skills Curriculum";
+
+const steps = await getCollection("parentingSteps");
+const sortedSteps = steps.sort((a, b) => a.data.step - b.data.step);
+
+const companions = await getCollection("parentingCompanions");
+const cards = await getCollection("parentingCards");
+const sortedCards = cards.sort((a, b) => a.data.step - b.data.step);
+
+// Group steps by phase
+const phases = [
+  { num: 1, name: "Regulated Parent, Safer Home", steps: sortedSteps.filter(s => s.data.phase === 1) },
+  { num: 2, name: "Connect & Name Feelings", steps: sortedSteps.filter(s => s.data.phase === 2) },
+  { num: 3, name: "Cooperation Without Coercion", steps: sortedSteps.filter(s => s.data.phase === 3) },
+  { num: 4, name: "Boundaries, Siblings, Problem-Solving", steps: sortedSteps.filter(s => s.data.phase === 4) },
+  { num: 5, name: "Advanced Autonomy (optional)", steps: sortedSteps.filter(s => s.data.phase === 5) },
+  { num: 6, name: "Parent Sustainability (optional)", steps: sortedSteps.filter(s => s.data.phase === 6) },
+];
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <p>
+    A 12-step core curriculum (plus 4 optional extension steps) for raising kids without 
+    punishment, rewards, or praise — using connection, co-regulation, and descriptive 
+    noticing instead.
+  </p>
+  
+  <p>
+    <strong>Designed for:</strong> A family with 2-year-old twins and a 6-year-old, 
+    with neurodivergent (ND) considerations baked in throughout.
+  </p>
+
+  <h2>Quick Start</h2>
+  <ol>
+    <li><strong>Tonight:</strong> Read only "The One Thing" box in Step 1 and write "Flooded or receptive?" on a sticky note.</li>
+    <li><strong>Start with Step 1.</strong> Don't skip ahead.</li>
+    <li><strong>Pick one track.</strong> Each step has 3 tracks. If you can only do one, pick the Child Skill track.</li>
+    <li><strong>Stay as long as you need.</strong> Move to the next step when you're at ~70%, not 100%.</li>
+  </ol>
+
+  <h2>Curriculum Steps</h2>
+  
+  {phases.map((phase) => (
+    <section>
+      <h3>Phase {phase.num}: {phase.name}</h3>
+      <ul>
+        {phase.steps.map((step) => (
+          <li>
+            <a href={`/parenting/steps/${step.id}/`}>
+              Step {step.data.step}: {step.data.title}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
+  ))}
+
+  <h2>Companion Guides</h2>
+  <ul>
+    {companions.map((companion) => (
+      <li>
+        <a href={`/parenting/companions/${companion.id}/`}>{companion.data.title}</a>
+      </li>
+    ))}
+  </ul>
+
+  <h2>Quick Reference Cards</h2>
+  <p>Printable one-pagers for the fridge.</p>
+  <ul>
+    {sortedCards.map((card) => (
+      <li>
+        <a href={`/parenting/cards/${card.id}/`}>{card.data.title}</a>
+      </li>
+    ))}
+  </ul>
+
+  <h2>What Makes This Curriculum Different</h2>
+  
+  <h3>No Praise, Rewards, or Time-Out</h3>
+  <p>
+    Traditional programs use labeled praise, sticker charts, and time-out. 
+    This curriculum replaces them with:
+  </p>
+  <ul>
+    <li><strong>Descriptive noticing</strong> instead of "Good job!" — describe what you see</li>
+    <li><strong>Natural outcomes</strong> instead of rewards/consequences — let reality teach</li>
+    <li><strong>Time-in and co-regulation</strong> instead of time-out — stay with them during big feelings</li>
+  </ul>
+
+  <h3>ND-First Design</h3>
+  <p>
+    Every step includes "ND Adaptation" sections for kids with autism, ADHD, 
+    sensory differences, PDA profiles — and for parents with ND brains too.
+  </p>
+
+  <h3>Built for Overwhelmed Parents</h3>
+  <p>Each step has:</p>
+  <ul>
+    <li><strong>"The One Thing"</strong> — If you read nothing else, read this</li>
+    <li><strong>"If you only have..."</strong> — 10-second, 1-minute, and 30-minute options</li>
+    <li><strong>Quick Reference Card</strong> — Printable one-pager</li>
+    <li><strong>"Good enough" framing</strong> — Permission to do less and still count it</li>
+  </ul>
+
+  <hr />
+  
+  <p><em>
+    Expect the full curriculum to take 6-9 months, not 12 calendar weeks. 
+    That's not failure — that's realistic pacing for a family with young kids.
+  </em></p>
+</BaseLayout>

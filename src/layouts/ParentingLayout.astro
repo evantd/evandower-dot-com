@@ -1,0 +1,30 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+const { frontmatter, showNav = true } = Astro.props;
+---
+
+<BaseLayout pageTitle={frontmatter.title}>
+  {showNav && (
+    <nav class="parenting-nav">
+      <a href="/parenting/">← Curriculum Home</a>
+    </nav>
+  )}
+  {frontmatter.phaseName && (
+    <p class="phase-info">
+      Phase {frontmatter.phase}: {frontmatter.phaseName}
+    </p>
+  )}
+  <slot />
+</BaseLayout>
+
+<style>
+  .parenting-nav {
+    margin-bottom: 1rem;
+  }
+  .phase-info {
+    color: var(--accent);
+    font-style: italic;
+    margin-bottom: 1rem;
+  }
+</style>

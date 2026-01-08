@@ -13,4 +13,32 @@ const blog = defineCollection({
   }),
 });
 
-export const collections = { blog };
+const parentingSteps = defineCollection({
+  loader: glob({ pattern: "*.md", base: "./src/content/parenting/steps" }),
+  schema: z.object({
+    title: z.string(),
+    step: z.number(),
+    phase: z.number(),
+    phaseName: z.string(),
+    description: z.string().optional(),
+  }),
+});
+
+const parentingCompanions = defineCollection({
+  loader: glob({ pattern: "*.md", base: "./src/content/parenting/companions" }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string().optional(),
+  }),
+});
+
+const parentingCards = defineCollection({
+  loader: glob({ pattern: "*.md", base: "./src/content/parenting/cards" }),
+  schema: z.object({
+    title: z.string(),
+    step: z.number(),
+    description: z.string().optional(),
+  }),
+});
+
+export const collections = { blog, parentingSteps, parentingCompanions, parentingCards };

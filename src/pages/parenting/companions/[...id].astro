@@ -1,0 +1,19 @@
+---
+import { getCollection, render } from "astro:content";
+import ParentingLayout from "../../../layouts/ParentingLayout.astro";
+
+export async function getStaticPaths() {
+  const companions = await getCollection("parentingCompanions");
+  return companions.map((companion) => ({
+    params: { id: companion.id },
+    props: { companion },
+  }));
+}
+
+const { companion } = Astro.props;
+const { Content } = await render(companion);
+---
+
+<ParentingLayout frontmatter={companion.data}>
+  <Content />
+</ParentingLayout>

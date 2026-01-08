@@ -1,0 +1,55 @@
+---
+import { getCollection, render } from "astro:content";
+import ParentingLayout from "../../../layouts/ParentingLayout.astro";
+
+export async function getStaticPaths() {
+  const steps = await getCollection("parentingSteps");
+  return steps.map((step) => ({
+    params: { id: step.id },
+    props: { step },
+  }));
+}
+
+const { step } = Astro.props;
+const { Content } = await render(step);
+
+const allSteps = await getCollection("parentingSteps");
+const sortedSteps = allSteps.sort((a, b) => a.data.step - b.data.step);
+const currentIndex = sortedSteps.findIndex((s) => s.id === step.id);
+const prevStep = currentIndex > 0 ? sortedSteps[currentIndex - 1] : null;
+const nextStep = currentIndex < sortedSteps.length - 1 ? sortedSteps[currentIndex + 1] : null;
+---
+
+<ParentingLayout frontmatter={step.data}>
+  <Content />
+  
+  <nav class="step-nav">
+    {prevStep && (
+      <a href={`/parenting/steps/${prevStep.id}/`} class="prev">
+        ← Step {prevStep.data.step}: {prevStep.data.title}
+      </a>
+    )}
+    {nextStep && (
+      <a href={`/parenting/steps/${nextStep.id}/`} class="next">
+        Step {nextStep.data.step}: {nextStep.data.title} →
+      </a>
+    )}
+  </nav>
+</ParentingLayout>
+
+<style>
+  .step-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    gap: 1rem;
+  }
+  .step-nav a {
+    flex: 1;
+  }
+  .step-nav .next {
+    text-align: right;
+  }
+</style>
