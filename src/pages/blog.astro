@@ -16,7 +16,7 @@ const sortedPosts = allPosts
       <li>
         <a href={`/blog/${post.id}/`}>{post.data.title}</a>
         <time datetime={post.data.pubDate.toISOString()}>
-          {post.data.pubDate.toLocaleDateString()}
+          {post.data.pubDate.toISOString().split('T')[0]}
         </time>
       </li>
     ))}
