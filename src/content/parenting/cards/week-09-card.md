@@ -78,4 +78,4 @@ Descriptions come more naturally than evaluations. You pause before praising —
 
 ---
 
-*Week 9 of 12 • Phase 3: Cooperation Without Coercion*
+*Step 9 • Phase 3: Cooperation Without Coercion*

@@ -5,6 +5,8 @@ phase: 5
 phaseName: "Advanced Autonomy"
 ---
 
+> 📋 **[Quick Reference Card](/parenting/cards/week-14-card/)** — Print this for the fridge
+
 **Phase:** 5 — Advanced Autonomy (Extension)  
 **Duration:** 2 weeks minimum (this is a slow skill)
 
@@ -425,63 +427,4 @@ Naming neurodivergent needs is different from limiting labels. The test: Does th
 
 ---
 
-## Quick Reference Card
-
-*(Print this page only if overwhelmed)*
-
-### The Role Trap
-
-| Label (Avoid) | Description (Use) |
-|---------------|-------------------|
-| "She IS stubborn" | "She's holding firm right now" |
-| "He's the wild one" | "He has lots of energy today" |
-| "She never shares" | "Sharing is hard for her today" |
-| "He's my difficult child" | "He's having a hard time right now" |
-
-**Add "today," "right now," or "in this moment."**
-
-### 4 Ways to Free from Roles
-
-1. **Show new picture:** Notice when they contradict the label
-2. **New situations:** Create chances to act differently
-3. **Overhear positives:** Let them hear you say something good
-4. **Model:** Demonstrate instead of lecture
-
-### Sibling Rules
-
-- Never compare: "Why can't you be like..."
-- Don't force 6-year-old into "helper" role
-- Let each twin be multidimensional
-- Describe current behavior, not permanent traits
-
-### This Step's Environment Task
-
-Start a "storehouse" — a list of moments that contradict each child's stuck role.
-
----
-
-## Connection to Earlier Steps
-
-**Step 11 (Sibling Safety)** gave you the comparison trap to avoid:
-- "Why can't you be more like..."
-- Treating everyone "equally" instead of according to need
-
-This step goes deeper: it's not just about avoiding comparison, it's about actively freeing each child from calcified roles.
-
-**Step 9 (Descriptive Noticing)** gave you the core skill:
-- Describe what you see, not who they are
-- "You used three colors" vs "You're so creative"
-
-This step applies descriptive noticing to IDENTITY — seeing children fresh instead of through accumulated labels.
-
----
-
-## Notes
-
-*(Space for your observations, adaptations, what worked)*
-
----
-
----
-
----
+> 📋 **[Quick Reference Card](/parenting/cards/week-14-card/)** — Print this for the fridge

@@ -61,4 +61,4 @@ Environment feels calmer. Fewer toy conflicts.
 
 ---
 
-*Week 3 of 12 • Phase 1: Regulated Parent, Safer Home*
+*Step 3 • Phase 1: Regulated Parent, Safer Home*

@@ -345,44 +345,6 @@ Grandparents may referee every fight, punish the "aggressor," or use time-out. S
 
 ---
 
-## Quick Reference Card
-
-*(Print this page only if overwhelmed)*
-
-### The Sibling Safety Ladder
-
-| Level | Response |
-|-------|----------|
-| 1. Bickering | **IGNORE (but stay nearby).** Think about your vacation or count 5 blue things. |
-| 2. Heating Up | **DESCRIPTIVE NOTICING (for conflict) + LEAVE.** "I see two angry kids. [Name] wanted ___. [Name] wanted ___. I have confidence you can figure this out." Then walk away. |
-| 3. Possibly Dangerous | **SEPARATE.** "Different rooms so bodies can cool down. You're not in trouble." |
-| 4. Dangerous | **INTERVENE.** Attend injured child first. "People are not for hurting." |
-
-For toddlers, you can ignore while staying in the same room.
-
-### What's Dangerous vs Annoying?
-
-- **Dangerous:** Hitting to hurt, head/face contact, choking, biting hard, using objects as weapons
-- **Annoying:** Yelling, tattling, light pushing, "he touched my stuff"
-
-### Comparison Rewrites
-
-- "Why can't you be like..." → Describe the behavior you want
-- "She's the wild one" → "She has a lot of energy"
-- "Same for everyone" → "Are you still hungry?"
-
-### This Step's Environment Task
-
-Create [6-year-old's name]'s protected space — shelf, drawer, or box that twins can't access.
-
 ---
 
-## Notes
-
-*(Space for your observations, adaptations, what worked)*
-
----
-
----
-
----
+> 📋 **[Quick Reference Card](/parenting/cards/week-11-card/)** — Print this for the fridge

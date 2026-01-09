@@ -295,46 +295,5 @@ See the [Emergency Mode Guide](/parenting/companions/emergency-mode-guide/). Whe
 
 ---
 
-## Quick Reference Card
-
-*(Print this page only if overwhelmed)*
-
-### This Week's Skill
-
-**Notice brain states — don't try to teach during meltdowns**
-
-### The Question
-
-> "Flooded or receptive?" (them)  
-> "Flooded or okay-enough?" (me)
-
-### If Flooded
-
-- Say less
-- Stay calm
-- Keep safe
-- Wait
-
-**"Wait now, teach later."**
-
-### Daily Practice
-
-Hand on heart. Breathe 4 in, 6-8 out.  
-"I'm a good parent having a hard moment."
-
-### One Environment Task
-
-Remove 1/3 from one hotspot.
-
----
-
-## Notes
-
-*(Space for your observations, adaptations, what worked)*
-
----
-
----
-
----
+> 📋 **[Quick Reference Card](/parenting/cards/week-01-card/)** — Print this for the fridge
 

@@ -67,4 +67,4 @@ You ignore Level 1 bickering and step back from Level 2 — at least half the ti
 
 ---
 
-*Week 11 of 12 • Phase 4: Boundaries, Siblings, Problem-Solving*
+*Step 11 • Phase 4: Boundaries, Siblings, Problem-Solving*

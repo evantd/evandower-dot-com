@@ -73,4 +73,4 @@ Follow their lead 15 minutes without directing or correcting.
 
 ---
 
-*Week 4 of 12 • Phase 2: Connect & Name Feelings*
+*Step 4 • Phase 2: Connect & Name Feelings*

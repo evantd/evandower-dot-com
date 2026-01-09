@@ -66,4 +66,4 @@ You feel the urge to correct — and pause anyway.
 
 ---
 
-*Week 2 of 12 • Phase 1: Regulated Parent, Safer Home*
+*Step 2 • Phase 1: Regulated Parent, Safer Home*

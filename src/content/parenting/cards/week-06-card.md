@@ -79,4 +79,4 @@ You co-regulate during a meltdown at least sometimes — not fixing, just presen
 
 ---
 
-*Week 6 of 12 • Phase 2: Connect & Name Feelings*
+*Step 6 • Phase 2: Connect & Name Feelings*

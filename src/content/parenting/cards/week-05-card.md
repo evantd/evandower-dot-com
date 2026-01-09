@@ -79,4 +79,4 @@ You acknowledge feelings before offering solutions — at least half the time.
 
 ---
 
-*Week 5 of 12 • Phase 2: Connect & Name Feelings*
+*Step 5 • Phase 2: Connect & Name Feelings*

@@ -83,4 +83,4 @@ You hold a boundary without yelling or caving — at least sometimes. And you st
 
 ---
 
-*Week 10 of 12 • Phase 4: Boundaries, Siblings, Problem-Solving*
+*Step 10 • Phase 4: Boundaries, Siblings, Problem-Solving*

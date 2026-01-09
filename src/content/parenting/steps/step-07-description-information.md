@@ -388,47 +388,6 @@ Many ND kids use arguing as a way to process or to feel some control. You can ac
 
 ---
 
-## Quick Reference Card
-
-*(Print this page only if overwhelmed)*
-
-### This Step's Skill
-
-**Describe and inform instead of commanding**
-
-### The Formula
-
-1. Describe what you see ("I see bare feet")
-2. Give information ("We leave in 5 minutes")
-3. One word — when established ("Shoes.")
-
-### Transformations
-
-| Command | Description/Info |
-|---------|------------------|
-| Put on shoes! | I see bare feet. We leave in 5 min. |
-| Clean up! | Toys live in the basket. |
-| Be quiet! | The baby is sleeping. |
-
-### Key Principles
-
-- **Say less, wait more**
-- Give 10-30 seconds processing time
-- Get close before speaking
-- One word is ideal (once established)
-
-### Visual Support
-
-Create ONE visual for a recurring issue. Post at kid-eye level where the action happens.
-
 ---
 
-## Notes
-
-*(Space for your observations, adaptations, what worked)*
-
----
-
----
-
----
+> 📋 **[Quick Reference Card](/parenting/cards/week-07-card/)** — Print this for the fridge

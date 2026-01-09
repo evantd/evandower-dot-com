@@ -66,4 +66,4 @@ You can repair after rupture — apologize simply, without excessive guilt, and 
 
 ---
 
-*Week 12 of 12 • Phase 4: Boundaries, Siblings, Problem-Solving*
+*Step 12 • Phase 4: Boundaries, Siblings, Problem-Solving*

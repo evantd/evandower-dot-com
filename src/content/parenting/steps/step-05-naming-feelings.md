@@ -329,48 +329,6 @@ Try:
 
 ---
 
-## Quick Reference Card
-
-*(Print this page only if overwhelmed)*
-
-### This Step's Skill
-
-**Name and validate feelings before fixing**
-
-### The Sequence
-
-1. Name it ("You're frustrated")
-2. Validate it ("Of course — you really wanted that")
-3. Don't fix yet
-4. Wait for body to soften
-
-### Scripts
-
-| 2-Year-Olds | 6-Year-Old |
-|-------------|------------|
-| "Sad!" "Mad!" "You want it!" | "You're really disappointed." |
-| "You WANT that!" | "That felt unfair." |
-
-### Magic Phrase
-
-**"You wish..."** — give them their wish in fantasy
-
-### Self-Empathy Check
-
-"What am I feeling? What do I need?"
-
-### Family Dinner
-
-Light candle. One moment of silence. "We're all here."
-
 ---
 
-## Notes
-
-*(Space for your observations, adaptations, what worked)*
-
----
-
----
-
----
+> 📋 **[Quick Reference Card](/parenting/cards/week-05-card/)** — Print this for the fridge

@@ -324,47 +324,6 @@ If they're flooded, the choice was probably too late. Next time try earlier, or 
 
 ---
 
-## Quick Reference Card
-
-*(Print this page only if overwhelmed)*
-
-### This Step's Skills
-
-**Choices:** Offer exactly 2 options — both okay with you.  
-**Play:** Replace power with silliness.
-
-### Choice Formula
-
-> "X or Y?"
-
-Both options must be acceptable. If not, don't offer.
-
-### Playful Moves
-
-| Move | When |
-|------|------|
-| Robot voice | Routine tasks |
-| Whisper | They're tuning you out |
-| Incompetence | Getting dressed, cleanup |
-| Race | Transitions |
-| Song | Anything |
-
-### Daily Practice
-
-Replace ONE power struggle with play. Notice what happens.
-
-### Environment Task
-
-Audit A days vs C days. Add recovery time after busy days.
-
 ---
 
-## Notes
-
-*(Space for your observations, adaptations, what worked)*
-
----
-
----
-
----
+> 📋 **[Quick Reference Card](/parenting/cards/week-08-card/)** — Print this for the fridge

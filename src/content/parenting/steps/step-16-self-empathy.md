@@ -5,6 +5,8 @@ phase: 6
 phaseName: "Parent Sustainability"
 ---
 
+> 📋 **[Quick Reference Card](/parenting/cards/week-16-card/)** — Print this for the fridge
+
 **Phase:** 6 — Parent Sustainability  
 **Duration:** 2 weeks minimum (stay as long as needed)
 
@@ -505,80 +507,4 @@ Do the body practice FIRST, then try naming feelings/needs if it helps.
 
 ---
 
-## Quick Reference Card
-
-*(Print this page only if overwhelmed)*
-
-### Self-Empathy Check-In (2-5 min)
-
-1. **Pause** — "Something's happening in me"
-2. **Sensations** — Where in my body?
-3. **Feeling** — Tired? Resentful? Hopeless?
-4. **Need** — Rest? Appreciation? Autonomy? Space?
-5. **Mourn** — "It makes sense I'm struggling. This is hard."
-6. **Request** — One small thing I can do?
-
-### Four Steps (Body-Based Alternative)
-
-1. **Recognize** — "I'm suffering right now."
-2. **Drop the story** — Let go of why/whose fault.
-3. **Turn toward** — Feel it in your body. Where?
-4. **Offer kindness** — Hand on heart. "I'm here."
-
-### Should → Choose
-
-| Instead of | Say |
-|------------|-----|
-| "I should be more patient" | "I want to be patient because connection matters to me" |
-| "I have to make dinner" | "I choose to make dinner because I value feeding my family" |
-| "I shouldn't yell" | "I want to find other ways to express frustration" |
-
-### Anger Translation
-
-1. Notice: "I'm angry"
-2. Thought: "What am I telling myself?"
-3. Need: "What do I actually need?"
-4. Request: "What can I ask for?"
-
-### Protect One Thing
-
-Schedule ONE thing for yourself this week.  
-Put it in your calendar.  
-Tell someone it's non-negotiable.  
-If derailed, reschedule within 24 hours.
-
----
-
-## After This Step
-
-You've completed the extension curriculum. There is no "done."
-
-**What now:**
-
-**Option A — Rest here:** Self-empathy is a practice, not a one-time skill. Stay in this step for as long as it serves you. Return whenever you notice depletion.
-
-**Option B — Loop back through extensions:** Move through Steps 13-15 again, this time with self-empathy as your foundation. Notice what's different.
-
-**Option C — Return to core:** If life gets intense, drop back to Phase 1-2 (Steps 1-6: regulation + connection). The extensions are here when you have capacity.
-
-**Option D — Teach it:** The best way to deepen a skill is to teach it. Share self-empathy with your partner, a friend, or (age-appropriately) your older kids.
-
-**The meta-lesson:**
-
-This whole curriculum has been about one thing: turning toward experience with curiosity and care — your kids' experience, your partner's, and finally your own.
-
-The skills are loops, not lines. You'll cycle through them as your kids grow, as you grow, as life throws new challenges.
-
-There's no graduation. There's just the next moment of connection.
-
----
-
-## Notes
-
-*(Space for your observations, adaptations, what worked)*
-
----
-
----
-
----
+> 📋 **[Quick Reference Card](/parenting/cards/week-16-card/)** — Print this for the fridge

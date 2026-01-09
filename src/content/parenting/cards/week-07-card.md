@@ -87,4 +87,4 @@ You catch yourself before commanding and rephrase — at least once a day.
 
 ---
 
-*Week 7 of 12 • Phase 3: Cooperation Without Coercion*
+*Step 7 • Phase 3: Cooperation Without Coercion*

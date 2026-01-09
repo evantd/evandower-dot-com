@@ -71,4 +71,4 @@ You think "flooded or receptive?" before reacting — at least half the time.
 
 ---
 
-*Week 1 of 12 • Phase 1: Regulated Parent, Safer Home*
+*Step 1 • Phase 1: Regulated Parent, Safer Home*

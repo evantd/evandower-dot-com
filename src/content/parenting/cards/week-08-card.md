@@ -70,4 +70,4 @@ You have 2-3 playful moves you reach for naturally — at least sometimes.
 
 ---
 
-*Week 8 of 12 • Phase 3: Cooperation Without Coercion*
+*Step 8 • Phase 3: Cooperation Without Coercion*

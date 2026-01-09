@@ -300,46 +300,6 @@ Options:
 
 ---
 
-## Quick Reference Card
-
-*(Print this page only if overwhelmed)*
-
-### This Week's Focus
-
-**Simplify environment — no new kid skills**
-
-### Toy Reduction
-
-Remove 50-75% of toys:
-- Keep favorites + open-ended toys
-- Remove: broken, outgrown, conflict-causing
-- Store in rotation boxes
-- Do it during nap/screen time
-
-### One Visual Schedule
-
-Pick ONE routine (morning, evening, or after-school). Make it visual with 3-5 pictures in order.
-
-### Parent Practice
-
-Notice kids playing for 30-60 seconds without intervening.
-
-### Sibling Fights
-
-Fewer toys = fewer fights. Watch for toys that still cause conflict → vacation.
-
-### Mastery
-
-Environment feels calmer. Fewer toy conflicts.
-
 ---
 
-## Notes
-
-*(Space for your observations, adaptations, what worked)*
-
----
-
----
-
----
+> 📋 **[Quick Reference Card](/parenting/cards/week-03-card/)** — Print this for the fridge
