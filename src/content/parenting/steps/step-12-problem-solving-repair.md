@@ -444,7 +444,7 @@ See the **[Co-Parenting Guide](/parenting/companions/co-parenting-guide/)** for 
 You've completed the core curriculum. That doesn't mean you're "done" — it means you have a full toolkit.
 
 **If life is on fire:**
-Use [Emergency Mode](/parenting/companions/emergency-mode-guide/) or the [6-step Compact Path](/parenting/).
+Use [Emergency Mode](/parenting/companions/emergency-mode-guide/) or the [6-Step Compact Path](/parenting/companions/compact-path/).
 
 **If core 1–12 mostly feel solid (~70%):**
 Consider [Steps 13–16](/parenting/) (extensions for deeper work).

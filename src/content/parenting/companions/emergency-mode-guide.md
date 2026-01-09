@@ -68,7 +68,8 @@ Or: *"Connect. That's all."*
 2. Move faster through familiar steps
 3. 70% standard still applies — imperfect is fine
 
-> When you have a bit more capacity again but not enough for all 12 steps, see the [6-step Compact Path](/parenting/).
+> When you have a bit more capacity but not enough for all 12 steps, see the [6-Step Compact Path](/parenting/companions/compact-path/).
+
 
 ---
 
