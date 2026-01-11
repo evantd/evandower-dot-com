@@ -7,7 +7,20 @@ const pageTitle = "Desert Trip 2026";
 <BaseLayout pageTitle={pageTitle}>
   <p class="post-date">Feb 10–25 · Death Valley + Joshua Tree</p>
 
-  <h2>✈️ Flights</h2>
+  <nav class="toc">
+    <strong>Contents:</strong>
+    <a href="#flights">Flights</a> ·
+    <a href="#rental-car">Rental Car</a> ·
+    <a href="#driving">Driving</a> ·
+    <a href="#schedule">Schedule</a> ·
+    <a href="#death-valley">Death Valley</a> ·
+    <a href="#joshua-tree">Joshua Tree</a> ·
+    <a href="#palm-springs">Palm Springs</a> ·
+    <a href="#lodging">Lodging</a> ·
+    <a href="#cost">Cost</a>
+  </nav>
+
+  <h2 id="flights">✈️ Flights</h2>
   
   <table>
     <thead>
@@ -37,7 +50,7 @@ const pageTitle = "Desert Trip 2026";
     <li><strong>Return:</strong> Row 16 — 5 seats available (front 47%)</li>
   </ul>
 
-  <h2>🚙 Rental Car</h2>
+  <h2 id="rental-car">🚙 Rental Car</h2>
   <p><strong>Need:</strong> 7-seater for 5 people + 2 car seats + 1 booster. One-way LAS → PSP (15 days).</p>
   
   <h3>Minivan Options</h3>
@@ -46,11 +59,11 @@ const pageTitle = "Desert Trip 2026";
       <tr><th>Company</th><th>Vehicle</th><th>Pickup</th><th>Total</th><th>Notes</th></tr>
     </thead>
     <tbody>
-      <tr><td><strong>Hertz</strong></td><td>Chrysler Pacifica</td><td>Off-airport (Vegas)</td><td><strong>$942</strong></td><td>⭐ Cheapest. One adult picks up while family waits at LAS.</td></tr>
-      <tr><td>Thrifty</td><td>Chrysler Pacifica</td><td>LAS Airport</td><td>$1,128</td><td>Best value at airport</td></tr>
-      <tr><td>Hertz</td><td>Chrysler Pacifica</td><td>Strip (3355 S Las Vegas Blvd)</td><td>$1,216</td><td>Taxi/Uber from airport</td></tr>
-      <tr><td>Enterprise</td><td>Chrysler Pacifica</td><td>LAS Airport</td><td>$3,073</td><td>Skip the Counter</td></tr>
-      <tr><td>Alamo</td><td>Chrysler Pacifica</td><td>LAS Airport</td><td>$3,153</td><td>Skip the Counter</td></tr>
+      <tr><td><a href="https://www.hertz.com/" target="_blank"><strong>Hertz</strong></a></td><td>Chrysler Pacifica</td><td>Off-airport (Vegas)</td><td><strong>$942</strong></td><td>⭐ Cheapest. One adult picks up while family waits at LAS.</td></tr>
+      <tr><td><a href="https://www.thrifty.com/" target="_blank">Thrifty</a></td><td>Chrysler Pacifica</td><td>LAS Airport</td><td>$1,128</td><td>Best value at airport</td></tr>
+      <tr><td><a href="https://www.hertz.com/" target="_blank">Hertz</a></td><td>Chrysler Pacifica</td><td>Strip (3355 S Las Vegas Blvd)</td><td>$1,216</td><td>Taxi/Uber from airport</td></tr>
+      <tr><td><a href="https://www.enterprise.com/" target="_blank">Enterprise</a></td><td>Chrysler Pacifica</td><td>LAS Airport</td><td>$3,073</td><td>Skip the Counter</td></tr>
+      <tr><td><a href="https://www.alamo.com/" target="_blank">Alamo</a></td><td>Chrysler Pacifica</td><td>LAS Airport</td><td>$3,153</td><td>Skip the Counter</td></tr>
     </tbody>
   </table>
 
@@ -60,9 +73,9 @@ const pageTitle = "Desert Trip 2026";
       <tr><th>Company</th><th>Vehicle</th><th>Pickup</th><th>Total</th><th>Notes</th></tr>
     </thead>
     <tbody>
-      <tr><td><strong>Dollar/Thrifty</strong></td><td>Nissan Pathfinder</td><td>LAS Airport</td><td><strong>$1,190</strong></td><td>7 passengers, 2-4 bags</td></tr>
-      <tr><td>Dollar/Thrifty</td><td>Chevrolet Suburban</td><td>LAS Airport</td><td>$1,893</td><td>7 passengers, 5 bags, max cargo</td></tr>
-      <tr><td>Hertz</td><td>Chevrolet Tahoe</td><td>Off-airport (Vegas Blvd)</td><td>$2,299</td><td>7 passengers, 4 bags</td></tr>
+      <tr><td><a href="https://www.dollar.com/" target="_blank"><strong>Dollar/Thrifty</strong></a></td><td>Nissan Pathfinder</td><td>LAS Airport</td><td><strong>$1,190</strong></td><td>7 passengers, 2-4 bags</td></tr>
+      <tr><td><a href="https://www.dollar.com/" target="_blank">Dollar/Thrifty</a></td><td>Chevrolet Suburban</td><td>LAS Airport</td><td>$1,893</td><td>7 passengers, 5 bags, max cargo</td></tr>
+      <tr><td><a href="https://www.hertz.com/" target="_blank">Hertz</a></td><td>Chevrolet Tahoe</td><td>Off-airport (Vegas Blvd)</td><td>$2,299</td><td>7 passengers, 4 bags</td></tr>
     </tbody>
   </table>
 
@@ -74,7 +87,7 @@ const pageTitle = "Desert Trip 2026";
   </ul>
   <p><em>Prices searched Jan 11, 2026 via Kayak. Costco Travel was unresponsive—check manually for member rates.</em></p>
 
-  <h2>🚗 Driving</h2>
+  <h2 id="driving">🚗 Driving</h2>
   
   <table>
     <thead>
@@ -89,7 +102,7 @@ const pageTitle = "Desert Trip 2026";
   
   <p><strong>Total driving:</strong> ~6 hours across 14 days</p>
 
-  <h2>📅 Schedule</h2>
+  <h2 id="schedule">📅 Schedule</h2>
   <p><strong>15 nights total (Feb 10–24, fly home Feb 25)</strong></p>
   <ul>
     <li><strong>Feb 10 (Tue):</strong> Fly to Vegas (arr 1:24pm), drive to Death Valley</li>
@@ -107,7 +120,7 @@ const pageTitle = "Desert Trip 2026";
     <li><strong>Palm Springs (5 nights):</strong> Living Desert Zoo, pool time, downtown, Children's Museum. Nice decompression before travel day.</li>
   </ul>
 
-  <h2>🏜️ Death Valley Ideas</h2>
+  <h2 id="death-valley">🏜️ Death Valley Ideas</h2>
   <p>February = perfect temps (70s daytime, 40s night). Hike mornings, pool afternoons.</p>
   <ul>
     <li><strong>Mesquite Flat Sand Dunes</strong> — run, climb, roll down. No trail, just play. Best at sunrise/sunset.</li>
@@ -120,7 +133,7 @@ const pageTitle = "Desert Trip 2026";
   </ul>
   <p><em>Bonus: Dark Sky Festival is Feb 6-8 (we just miss it)</em></p>
 
-  <h2>🌵 Joshua Tree Ideas</h2>
+  <h2 id="joshua-tree">🌵 Joshua Tree Ideas</h2>
   <p>Giant boulders = natural playground. Best hikes feel like scrambles.</p>
   <ul>
     <li><strong>Discovery Trail</strong> — 0.7mi, designed BY kids. 10 plaques, binoculars, easy.</li>
@@ -134,7 +147,7 @@ const pageTitle = "Desert Trip 2026";
   </ul>
   <p><em>Outside park: Joshua Tree Rock Shop (gem mining, geode cracking)</em></p>
 
-  <h2>🌴 Palm Springs Ideas</h2>
+  <h2 id="palm-springs">🌴 Palm Springs Ideas</h2>
   <p>Nice way to decompress before flying home:</p>
   <ul>
     <li><strong>Living Desert Zoo</strong> — giraffe feeding, carousel, splash pad (~20 min south)</li>
@@ -143,7 +156,7 @@ const pageTitle = "Desert Trip 2026";
     <li><strong>Palm Canyon Drive</strong> — walkable downtown, ice cream at Lappert's, Marilyn statue</li>
   </ul>
 
-  <h2>🏨 Lodging Options</h2>
+  <h2 id="lodging">🏨 Lodging Options</h2>
   <p>Mix of rustic in-park → vacation rental with pool → resort splurge. Need: sleeps 5, pool sometimes, laundry access.</p>
 
   <h3>Death Valley (3 nights): Feb 10–12</h3>
@@ -221,9 +234,9 @@ const pageTitle = "Desert Trip 2026";
       <tr><th>Option</th><th>Total (7 nights)</th><th>Beds</th><th>Pool</th><th>Notes</th></tr>
     </thead>
     <tbody>
-      <tr><td><strong>Oasis Inn & Suites</strong></td><td><strong>$1,256</strong></td><td>2 queen + sofa</td><td>✓ shared</td><td>⭐ Best hotel value. 8.0 rating.</td></tr>
-      <tr><td>Fairfield Inn</td><td>$1,657</td><td>2 queen suite</td><td>✓ shared</td><td>Breakfast included. 8.1 rating.</td></tr>
-      <tr><td>9 Palms Inn</td><td>$1,103</td><td>2 rooms (doubles)</td><td>?</td><td>Budget 2-room option. 7.6 rating.</td></tr>
+      <tr><td><a href="https://www.booking.com/hotel/us/oasis-inn-suites-joshua-tree.html" target="_blank"><strong>Oasis Inn & Suites</strong></a></td><td><strong>$1,256</strong></td><td>2 queen + sofa</td><td>✓ shared</td><td>⭐ Best hotel value. 8.0 rating.</td></tr>
+      <tr><td><a href="https://www.marriott.com/hotels/travel/pspfi-fairfield-inn-and-suites-twentynine-palms-joshua-tree-national-park/" target="_blank">Fairfield Inn</a></td><td>$1,657</td><td>2 queen suite</td><td>✓ shared</td><td>Breakfast included. 8.1 rating.</td></tr>
+      <tr><td><a href="https://www.booking.com/hotel/us/9-palms-inn.html" target="_blank">9 Palms Inn</a></td><td>$1,103</td><td>2 rooms (doubles)</td><td>?</td><td>Budget 2-room option. 7.6 rating.</td></tr>
     </tbody>
   </table>
   <p><em>Trade-off: Hotels save $400-600 vs Airbnbs, but lose private pool + kitchen (more dining out).</em></p>
@@ -254,7 +267,7 @@ const pageTitle = "Desert Trip 2026";
 
   
 
-  <h2>💰 Cost Estimate</h2>
+  <h2 id="cost">💰 Cost Estimate</h2>
   <table>
     <thead>
       <tr><th>Category</th><th>Budget</th><th>Mid-Range</th></tr>
@@ -305,6 +318,15 @@ const pageTitle = "Desert Trip 2026";
   <style>
     small {
       color: var(--text-muted);
+    }
+    .toc {
+      background: var(--bg-muted, #f5f5f5);
+      padding: 0.75rem 1rem;
+      border-radius: 6px;
+      margin-bottom: 1.5rem;
+    }
+    .toc a {
+      white-space: nowrap;
     }
   </style>
 </BaseLayout>
