@@ -5,230 +5,210 @@ const pageTitle = "Desert Trip 2026";
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <p class="post-date">Feb 10–25 · Death Valley + Joshua Tree</p>
+  <p class="post-date">Feb 10–25 · Death Valley + Joshua Tree + Palm Springs</p>
 
   <nav class="toc">
-    <strong>Contents:</strong>
-    <a href="#flights">Flights</a> ·
-    <a href="#rental-car">Rental Car</a> ·
-    <a href="#driving">Driving</a> ·
-    <a href="#schedule">Schedule</a> ·
+    <a href="#overview">Overview</a> ·
+    <a href="#itinerary">Itinerary</a> ·
     <a href="#death-valley">Death Valley</a> ·
     <a href="#joshua-tree">Joshua Tree</a> ·
     <a href="#palm-springs">Palm Springs</a> ·
-    <a href="#lodging">Accommodations</a> ·
-    <a href="#cost">Cost</a>
+    <a href="#logistics">Logistics</a>
   </nav>
 
-  <h2 id="flights">✈️ Flights</h2>
+  <h2 id="overview">Overview</h2>
+  <p><strong>Who:</strong> 2 adults, 6-year-old, twin 2-year-olds</p>
+  <p><strong>When:</strong> Feb 10–25, 2026 (15 nights)</p>
+  <p><strong>Route:</strong> Vegas → Death Valley → Joshua Tree → Palm Springs → fly home</p>
+  <p><strong>Total cost:</strong> ~$6,200 + 130k miles</p>
+
+  <h2 id="itinerary">Itinerary</h2>
+
+  <h3>Feb 10 (Mon) — Travel Day</h3>
+  <p>Fly SEA → LAS (arr 1:24pm). Pick up rental car. Drive to Pahrump (~1h 15m).</p>
+  <div class="stay">
+    <strong>Stay:</strong> <a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/pahrump/pvhnv/hoteldetail" target="_blank">Holiday Inn Express Pahrump</a><br>
+    <small>Pool, free breakfast. Confirmation: 5002475278 (Booking.com)</small>
+  </div>
+
+  <h3>Feb 11 (Tue) — Death Valley South</h3>
+  <p>Drive into park via <strong>Zabriskie Point</strong> → <strong>Furnace Creek</strong> (Visitor Center, Junior Ranger) → <strong>Natural Bridge</strong> → <strong>Artist's Drive</strong> → <strong>Badwater Basin</strong>. End at Stovepipe Wells (~4h total with stops).</p>
+  <div class="stay">
+    <strong>Stay:</strong> <a href="https://www.stovepipedeathvalley.com/" target="_blank">Stovepipe Wells Village</a><br>
+    <small>5 min from sand dunes, pool, restaurant. Confirmation: 116190</small>
+  </div>
+
+  <h3>Feb 12 (Wed) — Death Valley North</h3>
+  <p><strong>Sunrise:</strong> Mesquite Flat Sand Dunes (5 min away). Then <strong>Salt Creek</strong> boardwalk (pupfish spawning!), <strong>Mosaic Canyon</strong>. Pool in afternoon.</p>
+  <div class="stay">
+    <strong>Stay:</strong> Stovepipe Wells Village (night 2)
+  </div>
+
+  <h3>Feb 13 (Thu) — Drive to Joshua Tree</h3>
+  <p>Optional morning dunes. Drive to Joshua Tree (~3h). Settle in, explore property.</p>
+  <div class="stay">
+    <strong>Stay:</strong> <a href="https://www.airbnb.com/rooms/674813871023843323" target="_blank">Pink Palace</a> (Joshua Tree)<br>
+    <small>Indoor hot tub grotto, tiki bar, arcade. 4.94★</small>
+  </div>
+
+  <h3>Feb 14–19 — Joshua Tree</h3>
+  <p>7 nights at Pink Palace. See <a href="#joshua-tree">activities below</a>. Mix park days with pool/rest days.</p>
+
+  <h3>Feb 20 (Thu) — Move to Palm Springs</h3>
+  <p>Drive to Palm Springs area (~1h). Settle in, pool time.</p>
+  <div class="stay">
+    <strong>Stay:</strong> <em>TBD — <a href="#ps-options">see options</a></em>
+  </div>
+
+  <h3>Feb 21–24 — Palm Springs</h3>
+  <p>5 nights. Living Desert Zoo, Children's Museum, pool, downtown. See <a href="#palm-springs">activities below</a>.</p>
+
+  <h3>Feb 25 (Wed) — Fly Home</h3>
+  <p>Drive to PSP airport (~45 min). Return rental car by 9am. Fly PSP → SEA (dep 11:31am, arr 2:32pm).</p>
+
+  <hr>
+
+  <h2 id="death-valley">🏜️ Death Valley Activities</h2>
+  <p>February = perfect temps (70s day, 40s night). Hike mornings, pool afternoons.</p>
   
+  <h3>Must-Do</h3>
+  <ul>
+    <li><strong>Mesquite Flat Sand Dunes</strong> — run, climb, roll. Best at sunrise. 5 min from Stovepipe Wells.</li>
+    <li><strong>Badwater Basin</strong> — walk on salt flats, lowest point in North America (-282 ft).</li>
+    <li><strong>Salt Creek boardwalk</strong> — easy 0.5mi, pupfish spawning Feb-Apr!</li>
+  </ul>
+
+  <h3>Great for Kids</h3>
+  <ul>
+    <li><strong>Natural Bridge</strong> — easy 1mi canyon walk to rock bridge. Feels like Star Wars.</li>
+    <li><strong>Artist's Drive</strong> — 9mi scenic drive, multicolored rocks. Picnic at Artist's Palette.</li>
+    <li><strong>Zabriskie Point</strong> — short walk to viewpoint, Mars-like landscape.</li>
+    <li><strong>Junior Ranger program</strong> — free at Furnace Creek Visitor Center.</li>
+  </ul>
+
+  <h2 id="joshua-tree">🌵 Joshua Tree Activities</h2>
+  <p>Giant boulders = natural playground. Best hikes feel like scrambles.</p>
+  
+  <h3>Must-Do</h3>
+  <ul>
+    <li><strong>Discovery Trail</strong> — 0.7mi, designed BY kids. Binoculars, plaques, easy.</li>
+    <li><strong>Hidden Valley</strong> — 1mi loop through boulders. Great scrambling.</li>
+    <li><strong>Skull Rock</strong> — quick stop, rock shaped like a skull.</li>
+  </ul>
+
+  <h3>More Options</h3>
+  <ul>
+    <li><strong>Arch Rock + Heart Rock</strong> — 1.7mi easy, fun shapes to find.</li>
+    <li><strong>Barker Dam</strong> — 1.1mi loop, may have water in Feb, ancient petroglyphs.</li>
+    <li><strong>Cholla Cactus Garden</strong> — 0.3mi flat boardwalk (stay on path!).</li>
+    <li><strong>Keys View</strong> — drive-up vista, see all the way to Salton Sea.</li>
+    <li><strong>Junior Ranger program</strong> — booklets at visitor centers.</li>
+  </ul>
+
+  <h3>Outside the Park</h3>
+  <ul>
+    <li><strong>Joshua Tree Rock Shop</strong> — gem mining, geode cracking.</li>
+  </ul>
+
+  <h2 id="palm-springs">🌴 Palm Springs Activities</h2>
+  <p>Decompress before flying home. Mix activities with pool days.</p>
+  <ul>
+    <li><strong>Living Desert Zoo</strong> — giraffe feeding, carousel, splash pad (~20 min south)</li>
+    <li><strong>Children's Discovery Museum</strong> — 80+ interactive exhibits</li>
+    <li><strong>Palm Canyon Drive</strong> — walkable downtown, ice cream at Lappert's, Marilyn statue</li>
+    <li><strong>Pool time</strong> — at the rental</li>
+  </ul>
+
+  <hr>
+
+  <h2 id="logistics">Logistics</h2>
+
+  <h3>Flights</h3>
   <table>
     <thead>
-      <tr><th>Leg</th><th>Date</th><th>Flight</th><th>Time</th></tr>
+      <tr><th>Leg</th><th>Date</th><th>Flight</th><th>Time</th><th>Seats</th></tr>
     </thead>
     <tbody>
       <tr>
         <td>Outbound</td>
         <td>Mon Feb 10</td>
-        <td>AS 612<br><small>SEA → LAS</small></td>
+        <td>AS 612 (SEA→LAS)</td>
         <td>10:53am → 1:24pm</td>
+        <td>Row 15</td>
       </tr>
       <tr>
         <td>Return</td>
         <td>Wed Feb 25</td>
-        <td>AS 315<br><small>PSP → SEA</small></td>
+        <td>AS 315 (PSP→SEA)</td>
         <td>11:31am → 2:32pm</td>
+        <td>Row 16</td>
       </tr>
     </tbody>
   </table>
+  <p><strong>Cost:</strong> 130,000 miles + ~$60 taxes</p>
 
-  <p><strong>Cost:</strong> 130,000 miles total (26k/person × 5)</p>
-  
-  <h3>Seats</h3>
+  <h3>Rental Car</h3>
+  <p><a href="https://www.thrifty.com/" target="_blank">Thrifty</a> — Nissan Pathfinder (or similar 7-seater)</p>
   <ul>
-    <li><strong>Outbound:</strong> Row 15 — all 6 seats available (front 44%)</li>
-    <li><strong>Return:</strong> Row 16 — 5 seats available (front 47%)</li>
+    <li><strong>Pickup:</strong> LAS Airport, Feb 10, 2:00pm</li>
+    <li><strong>Drop-off:</strong> PSP Airport, Feb 25, 9:00am</li>
+    <li><strong>Cost:</strong> $1,190</li>
+    <li><strong>Confirmation:</strong> L4651609025</li>
   </ul>
 
-  <h2 id="rental-car">🚙 Rental Car</h2>
-  
+  <h3>Driving</h3>
   <table>
     <thead>
-      <tr><th>Company</th><th>Vehicle</th><th>Pickup</th><th>Drop-off</th><th>Total</th></tr>
+      <tr><th>Segment</th><th>Time</th></tr>
     </thead>
     <tbody>
-      <tr>
-        <td><a href="https://www.thrifty.com/" target="_blank"><strong>Thrifty</strong></a></td>
-        <td>Nissan Pathfinder (or similar)</td>
-        <td>LAS Airport<br><small>Feb 10, 2:00pm</small></td>
-        <td>PSP Airport<br><small>Feb 25, 9:00am</small></td>
-        <td><strong>$1,190</strong></td>
-      </tr>
-    </tbody>
-  </table>
-  <p><strong>Confirmation:</strong> L4651609025</p>
-
-  <h2 id="driving">🚗 Driving</h2>
-  
-  <table>
-    <thead>
-      <tr><th>Segment</th><th>Drive Time</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>LAS → Pahrump (HIE)</td><td>~1h 15m</td></tr>
-      <tr><td>Pahrump → Zabriskie Point</td><td>~1h 15m</td></tr>
-      <tr><td>Zabriskie Point → Badwater Basin</td><td>~30m</td></tr>
-      <tr><td>Badwater Basin → Stovepipe Wells</td><td>~45m</td></tr>
-      <tr><td>Stovepipe Wells → Joshua Tree</td><td>~3h</td></tr>
-      <tr><td>Joshua Tree → PSP airport</td><td>~45m</td></tr>
-    </tbody>
-  </table>
-  
-  <p><strong>Total driving:</strong> ~7.5 hours across 15 days</p>
-
-  <h2 id="schedule">📅 Schedule</h2>
-  <p><strong>15 nights total (Feb 10–24, fly home Feb 25)</strong></p>
-  <ul>
-    <li><strong>Feb 10 (Mon):</strong> Fly to Vegas (arr 1:24pm), drive to Pahrump (~1h 15m). Pool, decompress.</li>
-    <li><strong>Feb 11:</strong> Drive into DV via Zabriskie Point → Badwater → Artist's Drive → Natural Bridge. End at Stovepipe Wells.</li>
-    <li><strong>Feb 12:</strong> Sand dunes (sunrise!), Salt Creek pupfish, Mosaic Canyon. Pool afternoon.</li>
-    <li><strong>Feb 13:</strong> Morning dunes if kids want more, then drive to Joshua Tree (~3h).</li>
-    <li><strong>Feb 13–19:</strong> Joshua Tree area (7 nights)</li>
-    <li><strong>Feb 20–24:</strong> Palm Springs (5 nights)</li>
-    <li><strong>Feb 25 (Wed):</strong> Fly home from PSP (dep 11:31am)</li>
-  </ul>
-
-  <h3>Why this split?</h3>
-  <ul>
-    <li><strong>Pahrump (1 night):</strong> Short drive after travel day, pool for kids, stock up on groceries. Hit south/east DV attractions on the way to Stovepipe Wells next morning.</li>
-    <li><strong>Stovepipe Wells (2 nights):</strong> Sand dunes and Mosaic Canyon are 5 min away. Perfect for sunrise dunes and afternoon pool.</li>
-    <li><strong>Joshua Tree (7 nights):</strong> Boulder scrambling has more replay value for kids. More distinct activities (petroglyphs, gem shop, varied rock formations). Week-long rental = better pricing.</li>
-    <li><strong>Palm Springs (5 nights):</strong> Living Desert Zoo, pool time, downtown, Children's Museum. Nice decompression before travel day.</li>
-  </ul>
-
-  <h2 id="death-valley">🏜️ Death Valley Ideas</h2>
-  <p>February = perfect temps (70s daytime, 40s night). Hike mornings, pool afternoons.</p>
-  <ul>
-    <li><strong>Mesquite Flat Sand Dunes</strong> — run, climb, roll down. No trail, just play. Best at sunrise/sunset.</li>
-    <li><strong>Badwater Basin</strong> — walk on salt flats, lowest point in North America (-282 ft). Flat, easy, otherworldly.</li>
-    <li><strong>Salt Creek boardwalk</strong> — easy 0.5mi, see pupfish (Feb-Apr spawn season!)</li>
-    <li><strong>Natural Bridge</strong> — easy 1mi, walk under a rock bridge. Feels like Star Wars.</li>
-    <li><strong>Artist's Drive</strong> — 9mi scenic drive, multicolored rocks. Picnic at Artist's Palette.</li>
-    <li><strong>Zabriskie Point</strong> — short walk to viewpoint, amazing at sunset.</li>
-    <li><strong>Junior Ranger program</strong> — free at Furnace Creek Visitor Center.</li>
-  </ul>
-  <p><em>Bonus: Dark Sky Festival is Feb 6-8 (we just miss it)</em></p>
-
-  <h2 id="joshua-tree">🌵 Joshua Tree Ideas</h2>
-  <p>Giant boulders = natural playground. Best hikes feel like scrambles.</p>
-  <ul>
-    <li><strong>Discovery Trail</strong> — 0.7mi, designed BY kids. 10 plaques, binoculars, easy.</li>
-    <li><strong>Hidden Valley</strong> — 1mi loop through boulders. Great scrambling.</li>
-    <li><strong>Skull Rock</strong> — quick stop, rock shaped like a skull. Kids love it.</li>
-    <li><strong>Arch Rock + Heart Rock</strong> — 1.7mi easy, fun shapes to find.</li>
-    <li><strong>Barker Dam</strong> — 1.1mi loop, may have water in Feb, ancient petroglyphs.</li>
-    <li><strong>Cholla Cactus Garden</strong> — 0.3mi flat boardwalk through "jumping cacti" (stay on path!).</li>
-    <li><strong>Keys View</strong> — drive-up vista, see all the way to Salton Sea.</li>
-    <li><strong>Junior Ranger program</strong> — booklets at visitor centers.</li>
-  </ul>
-  <p><em>Outside park: Joshua Tree Rock Shop (gem mining, geode cracking)</em></p>
-
-  <h2 id="palm-springs">🌴 Palm Springs Ideas</h2>
-  <p>Nice way to decompress before flying home:</p>
-  <ul>
-    <li><strong>Living Desert Zoo</strong> — giraffe feeding, carousel, splash pad (~20 min south)</li>
-    <li><strong>Children's Discovery Museum</strong> — 80+ interactive exhibits</li>
-    <li><strong>Resort pool</strong> — many hotels have day passes</li>
-    <li><strong>Palm Canyon Drive</strong> — walkable downtown, ice cream at Lappert's, Marilyn statue</li>
-  </ul>
-
-  <h2 id="lodging">🏨 Accommodations</h2>
-
-  <h3>Booked</h3>
-  <table>
-    <thead>
-      <tr><th>Dates</th><th>Location</th><th>Confirmation</th><th>Cost</th></tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Feb 10</td>
-        <td><a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/pahrump/pvhnv/hoteldetail" target="_blank">HIE Pahrump</a><br><small>Pool, free breakfast. Check-in 3pm.</small></td>
-        <td>5002475278<br><small>Booking.com</small></td>
-        <td>$144</td>
-      </tr>
-      <tr>
-        <td>Feb 11–12</td>
-        <td><a href="https://www.stovepipedeathvalley.com/" target="_blank">Stovepipe Wells Village</a><br><small>5 min from sand dunes, pool, restaurant.</small></td>
-        <td>116190</td>
-        <td>$720</td>
-      </tr>
-      <tr>
-        <td>Feb 13–19</td>
-        <td><a href="https://www.airbnb.com/rooms/674813871023843323" target="_blank">Pink Palace</a> (Joshua Tree)<br><small>Indoor hot tub grotto, tiki bar, arcade. 4.94★</small></td>
-        <td>TBD</td>
-        <td>$1,673</td>
-      </tr>
-      <tr>
-        <td>Feb 20–24</td>
-        <td><em>Palm Springs — see options below</em></td>
-        <td>—</td>
-        <td>~$1,600–1,800</td>
-      </tr>
+      <tr><td>LAS → Pahrump</td><td>1h 15m</td></tr>
+      <tr><td>Pahrump → Stovepipe Wells (via DV sights)</td><td>~4h with stops</td></tr>
+      <tr><td>Stovepipe Wells → Joshua Tree</td><td>3h</td></tr>
+      <tr><td>Joshua Tree → Palm Springs</td><td>1h</td></tr>
+      <tr><td>Palm Springs → PSP Airport</td><td>20m</td></tr>
     </tbody>
   </table>
 
-  <h3>Palm Springs Options (Feb 20–24)</h3>
-  <p>Airbnbs in Indio area offer best value (15-25 min to Living Desert Zoo).</p>
-  <table>
-    <thead>
-      <tr><th>Option</th><th>Total</th><th>Beds</th><th>Pool</th><th>Notes</th></tr>
-    </thead>
-    <tbody>
-      <tr><td><a href="https://www.airbnb.com/rooms/39725487" target="_blank"><strong>Turquoise Oasis</strong></a></td><td><strong>$1,804</strong></td><td>4BR (1 king, 3 queen)</td><td>✓ heated</td><td>⭐ Top 1% Airbnb. 100% family 5-star. Games, firepit, orchard. 4.96★</td></tr>
-      <tr><td><a href="https://www.airbnb.com/rooms/1401630723761592885" target="_blank">Festival Hideaway</a></td><td>$1,615</td><td>3BR/5 beds</td><td>✓ + spa</td><td>Best budget. Private pool, fire pit, outdoor bar. 5.0★ (new)</td></tr>
-      <tr><td><a href="https://www.airbnb.com/rooms/610023395582313286" target="_blank">Cozy Cactus</a></td><td>~$1,800</td><td>3BR (2 queen, 1 king)</td><td>✓ shared + hot tub</td><td>Best toddler gear (Pack n Play, high chair). Top 5%. 4.98★</td></tr>
-      <tr><td><a href="https://www.airbnb.com/rooms/1308276696376113686" target="_blank">MusicLover Lakeside</a></td><td>$1,838</td><td>4BR (2 king, bunk)</td><td>✓ spool (+$100/day heat)</td><td>Game room, karaoke, arcade, lakefront. 4.9★</td></tr>
-    </tbody>
-  </table>
-  <p><em>Recommendation: <strong>Turquoise Oasis</strong> — best family track record + heated pool included.</em></p>
-
-  
-
-  <h2 id="cost">💰 Cost Estimate</h2>
+  <h3>Budget</h3>
   <table>
     <thead>
       <tr><th>Category</th><th>Cost</th><th>Status</th></tr>
     </thead>
     <tbody>
-      <tr><td>Flights</td><td>130,000 miles + ~$60 taxes</td><td>✅ Booked</td></tr>
-      <tr><td>Rental car</td><td>$1,190</td><td>✅ Booked</td></tr>
-      <tr><td>Death Valley (3 nights)</td><td>$864</td><td>✅ Booked</td></tr>
-      <tr><td>Joshua Tree (7 nights)</td><td>$1,673</td><td>✅ Booked</td></tr>
-      <tr><td>Palm Springs (5 nights)</td><td>~$1,615–1,804</td><td>⏳ Deciding</td></tr>
-      <tr><td>Park passes</td><td>~$60</td><td></td></tr>
-      <tr><td>Gas (~400 mi)</td><td>~$80</td><td></td></tr>
-      <tr><td>Food (15 days)</td><td>~$600</td><td></td></tr>
-      <tr><td><strong>Total</strong></td><td><strong>~$6,100–6,300</strong></td><td></td></tr>
+      <tr><td>Flights</td><td>130k miles + $60</td><td>✅</td></tr>
+      <tr><td>Rental car</td><td>$1,190</td><td>✅</td></tr>
+      <tr><td>Death Valley (3 nights)</td><td>$864</td><td>✅</td></tr>
+      <tr><td>Joshua Tree (7 nights)</td><td>$1,673</td><td>✅</td></tr>
+      <tr><td>Palm Springs (5 nights)</td><td>~$1,700</td><td>⏳</td></tr>
+      <tr><td>Park passes + gas + food</td><td>~$740</td><td></td></tr>
+      <tr><td><strong>Total</strong></td><td><strong>~$6,200</strong></td><td></td></tr>
     </tbody>
   </table>
 
-  <h2>📝 Notes</h2>
+  <h3>Notes</h3>
   <ul>
-    <li>School days missed: 7 (Feb 10–13 before break, Feb 23–25 after)</li>
+    <li>School days missed: 7 (Feb 10–13 before break, Feb 24–25 after)</li>
     <li>Presidents' Day break: Feb 17–21 (no school)</li>
-    <li>Midday flights = no early morning chaos</li>
-    <li>Both rows are front half of plane ✓</li>
   </ul>
 
-  <h2>🤖 Research Notes (for Amp)</h2>
-  <p><em>Context for future planning sessions:</em></p>
-  <ul>
-    <li><strong>Browser automation:</strong> Use Task subagents for checking hotel availability. The <code>mcp__chrome_devtools__take_snapshot</code> tool returns 50KB+ per call and shreds context tokens in main thread.</li>
-    <li><strong>Family requirements:</strong> 2 adults, 6yo, twin 2yos. Need 2 queen beds minimum (doubles too small). Pets NOT traveling.</li>
-    <li><strong>Toddler logistics:</strong> 1–2pm nap window. Can use car naps strategically for longer drives (50 min max ideal).</li>
-    <li><strong>Presidents' Day weekend:</strong> Feb 13–16 is sold out everywhere in DV. Solved by moving to Joshua Tree on Feb 13.</li>
-    <li><strong>Availability checked Jan 10:</strong> Stovepipe Wells, Exchange Club Beatty, Joshua Tree Airbnbs all confirmed available.</li>
-  </ul>
+  <hr>
+
+  <h2 id="ps-options">Palm Springs Lodging Options</h2>
+  <p>Airbnbs in Indio area (15-25 min to Living Desert Zoo).</p>
+  <table>
+    <thead>
+      <tr><th>Option</th><th>Total</th><th>Pool</th><th>Notes</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><a href="https://www.airbnb.com/rooms/39725487" target="_blank"><strong>Turquoise Oasis</strong></a></td><td><strong>$1,804</strong></td><td>✓ heated</td><td>⭐ Top 1%. 100% family 5-star. 4BR. 4.96★</td></tr>
+      <tr><td><a href="https://www.airbnb.com/rooms/1401630723761592885" target="_blank">Festival Hideaway</a></td><td>$1,615</td><td>✓ + spa</td><td>Best budget. 3BR. 5.0★ (new)</td></tr>
+      <tr><td><a href="https://www.airbnb.com/rooms/610023395582313286" target="_blank">Cozy Cactus</a></td><td>~$1,800</td><td>shared + hot tub</td><td>Best toddler gear. 3BR. 4.98★</td></tr>
+      <tr><td><a href="https://www.airbnb.com/rooms/1308276696376113686" target="_blank">MusicLover Lakeside</a></td><td>$1,838</td><td>spool</td><td>Game room, arcade. 4BR. 4.9★</td></tr>
+    </tbody>
+  </table>
+  <p><em>Recommendation: <strong>Turquoise Oasis</strong> — best family track record + heated pool.</em></p>
+  <p><em>Also check <a href="https://www.vrbo.com" target="_blank">VRBO</a> for Feb 20-25, Palm Springs/Indio, 3+ BR with pool.</em></p>
 
   <style>
     small {
@@ -242,6 +222,17 @@ const pageTitle = "Desert Trip 2026";
     }
     .toc a {
       white-space: nowrap;
+    }
+    .stay {
+      background: var(--bg-accent, #f0f7ff);
+      border-left: 3px solid var(--accent-color, #0066cc);
+      padding: 0.5rem 1rem;
+      margin: 0.5rem 0 1rem 0;
+    }
+    hr {
+      margin: 2rem 0;
+      border: none;
+      border-top: 1px solid var(--border-color, #ddd);
     }
   </style>
 </BaseLayout>
