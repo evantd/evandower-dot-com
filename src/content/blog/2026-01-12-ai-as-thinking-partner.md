@@ -9,7 +9,7 @@ tags: ["ai", "parenting"]
 
 I've read about fifteen parenting books over the years. Each one gave me ideas I liked. None of them turned into consistent behavior.
 
-What I needed wasn't more information — I needed a structure for turning "I know I should" into actually doing. I wrote about what I built in a [companion post](/blog/2026-01-07-operationalizing-parenting-books/). This post is about how I built it.
+What I needed wasn't more information — I needed a structure for turning "I know I should" into actually doing. I wrote about what I built in a [companion post](/blog/2026-01-07-operationalizing-parenting-books/), and the [curriculum itself is here](/parenting/). This post is about how I built it.
 
 I could do the intellectual work of deciding what to include — which frameworks, which values, which specific practices. But executing at scale was a different problem. I needed to synthesize ideas from a dozen books into a coherent set of steps, each with consistent structure, cross-references, and aligned terminology.
 
