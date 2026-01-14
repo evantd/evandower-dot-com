@@ -23,7 +23,7 @@ Some programs offer this. The Incredible Years is evidence-based and has a clear
 
 How to Talk So Kids Will Listen was originally developed as a training course, and the book preserves some of that structure. It's closer to what I wanted. But I also had ideas from a dozen other books I wanted to synthesize: the brain-state awareness from The Whole-Brain Child, the environment simplification from Simplicity Parenting, the needs-based framing from NVC, the sturdy leadership concept from Good Inside.
 
-I wanted a curriculum that pulled together everything I'd found valuable into one coherent practice path.
+I wanted a curriculum that pulled together everything I'd found valuable into one coherent practice path. (For how I built it, see the [companion post](/blog/2026-01-12-ai-as-thinking-partner/).)
 
 ## What I Built
 
