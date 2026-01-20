@@ -7,6 +7,7 @@ phaseName: "Regulated Parent, Safer Home"
 
 > 📋 **[Quick Reference Card](/parenting/cards/week-01-card/)** — Print this for the fridge
 
+**Jump to:** [Why This Matters](#why-this-matters) · [Track 1: Child](#track-1--child-skill-internal-only-spotting-brain-states) · [Track 2: Parent](#track-2--parent-mini-practice-hand-on-heart-breath) · [Track 3: Environment](#track-3--environment-mini-project-one-hotspot) · [Siblings](#sibling-twist) · [Mastery](#mastery-indicator) · [Troubleshooting](#troubleshooting)
 
 **Phase:** 1 — Regulated Parent, Safer Home  
 **Duration:** 1 week minimum (repeat if needed)
@@ -21,7 +22,7 @@ That's it. If you're overwhelmed, stop reading here. Just ask yourself throughou
 
 ---
 
-## This Week Has 3 Tracks
+## This Step Has 3 Tracks
 
 | Track | What | Time |
 |-------|------|------|

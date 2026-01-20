@@ -7,6 +7,7 @@ phaseName: "Connect & Name Feelings"
 
 > 📋 **[Quick Reference Card](/parenting/cards/week-04-card/)** — Print this for the fridge
 
+**Jump to:** [Why This Matters](#why-this-matters) · [Track 1: Child](#track-1--child-skill-special-time-10-15-minutes-daily) · [Track 2: Parent](#track-2--parent-mini-practice-phone-away--count-urges) · [Track 3: Environment](#track-3--environment-mini-project-after-school-transition-ritual) · [Siblings](#sibling-twist) · [Mastery](#mastery-indicator) · [Troubleshooting](#troubleshooting)
 
 **Phase:** 2 — Connect & Name Feelings  
 **Duration:** 1 week minimum (repeat if needed)
@@ -28,7 +29,7 @@ Aim for special time with **at least one child 3 days this week**. Anything abov
 
 ---
 
-## This Week Has 3 Tracks
+## This Step Has 3 Tracks
 
 | Track | What | Time |
 |-------|------|------|

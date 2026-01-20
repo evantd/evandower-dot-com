@@ -7,6 +7,7 @@ phaseName: "Regulated Parent, Safer Home"
 
 > 📋 **[Quick Reference Card](/parenting/cards/week-02-card/)** — Print this for the fridge
 
+**Jump to:** [Why This Matters](#why-this-matters) · [Track 1: Child](#track-1--child-skill-connect-first-2-minutes-or-until-theyre-calmer) · [Track 2: Parent](#track-2--parent-mini-practice-connect-first-mantra) · [Track 3: Environment](#track-3--environment-mini-project-one-transition-cue) · [Siblings](#sibling-twist) · [Mastery](#mastery-indicator) · [Troubleshooting](#troubleshooting)
 
 **Phase:** 1 — Regulated Parent, Safer Home  
 **Duration:** 1 week minimum (repeat if needed)
@@ -21,7 +22,7 @@ That's it. If you're overwhelmed, stop reading here. When they're upset, move to
 
 ---
 
-## This Week Has 3 Tracks
+## This Step Has 3 Tracks
 
 | Track | What | Time |
 |-------|------|------|
@@ -219,7 +220,9 @@ Pick one transition. Add one tiny cue. Test it for a week. That's enough.
 
 ## Sibling Twist
 
-When one child complains about another:
+**When one child hurts another:** This step's "connect first" applies to both kids — but in sequence. Attend to the injured child first, then return to the aggressor once everyone's calmer. See [Step 11: Sibling Safety](/parenting/steps/step-11-sibling-safety) for the full protocol (the "Safety Ladder").
+
+**When one child complains about another:**
 
 > **Connect to the speaker's feelings first, before asking what happened or problem-solving.**
 

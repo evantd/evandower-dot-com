@@ -7,6 +7,8 @@ phaseName: "Parent Sustainability"
 
 > 📋 **[Quick Reference Card](/parenting/cards/week-16-card/)** — Print this for the fridge
 
+**Jump to:** [Why This Matters](#why-this-matters) · [Track 1: Parent](#track-1--parent-skill-deep-self-empathy) · [Track 2: Parent](#track-2--parent-mini-practice-should--choose-translation) · [Track 3: Environment](#track-3--environment-mini-project-protect-one-thing) · [Siblings](#sibling-twist) · [Mastery](#mastery-indicator) · [Troubleshooting](#troubleshooting)
+
 **Phase:** 6 — Parent Sustainability  
 **Duration:** 2 weeks minimum (stay as long as needed)
 

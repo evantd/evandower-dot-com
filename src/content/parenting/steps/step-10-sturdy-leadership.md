@@ -7,6 +7,7 @@ phaseName: "Boundaries, Siblings, Problem-Solving"
 
 > 📋 **[Quick Reference Card](/parenting/cards/week-10-card/)** — Print this for the fridge
 
+**Jump to:** [Why This Matters](#why-this-matters) · [Track 1: Child](#track-1--child-skill-holding-boundaries-with-two-things-are-true) · [Track 2: Parent](#track-2--parent-mini-practice-hold-one-wobbly-boundary) · [Track 3: Environment](#track-3--environment-mini-project-one-in-one-out) · [Siblings](#sibling-twist) · [Mastery](#mastery-indicator) · [Troubleshooting](#troubleshooting)
 
 **Phase:** 4 — Boundaries, Siblings, Problem-Solving  
 **Duration:** 1 week minimum (repeat if needed)

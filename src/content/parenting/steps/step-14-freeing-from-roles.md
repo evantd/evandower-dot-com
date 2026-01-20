@@ -7,6 +7,8 @@ phaseName: "Advanced Autonomy"
 
 > 📋 **[Quick Reference Card](/parenting/cards/week-14-card/)** — Print this for the fridge
 
+**Jump to:** [Why This Matters](#why-this-matters) · [Track 1: Child](#track-1--child-skill-four-ways-to-free-a-child-from-a-role) · [Track 2: Parent](#track-2--parent-mini-practice-catch-labels-reframe-to-current-behavior) · [Track 3: Environment](#track-3--environment-mini-project-create-a-storehouse-of-moments) · [Siblings](#sibling-twist) · [Mastery](#mastery-indicator) · [Troubleshooting](#troubleshooting)
+
 **Phase:** 5 — Advanced Autonomy (Extension)  
 **Duration:** 2 weeks minimum (this is a slow skill)
 

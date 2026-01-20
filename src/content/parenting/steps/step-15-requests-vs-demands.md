@@ -7,6 +7,8 @@ phaseName: "Parent Sustainability"
 
 > 📋 **[Quick Reference Card](/parenting/cards/week-15-card/)** — Print this for the fridge
 
+**Jump to:** [Why This Matters](#why-this-matters) · [Track 1: Child](#track-1--child-skill-modeling-requests-not-demands) · [Track 2: Parent](#track-2--parent-mini-practice-one-request-per-day) · [Track 3: Environment](#track-3--environment-mini-project-request-board) · [Siblings](#sibling-twist) · [Mastery](#mastery-indicator) · [Troubleshooting](#troubleshooting)
+
 **Phase:** 6 — Parent Sustainability  
 **Duration:** 2 weeks (this is a practice step, not a one-time skill)
 

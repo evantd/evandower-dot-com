@@ -7,6 +7,7 @@ phaseName: "Boundaries, Siblings, Problem-Solving"
 
 > 📋 **[Quick Reference Card](/parenting/cards/week-11-card/)** — Print this for the fridge
 
+**Jump to:** [Why This Matters](#why-this-matters) · [Track 1: Child](#track-1--child-skill-the-sibling-safety-ladder) · [Track 2: Parent](#track-2--parent-mini-practice-catch-and-rewrite-comparisons) · [Track 3: Environment](#track-3--environment-mini-project-protected-space-for-the-6-year-old) · [Siblings](#sibling-twist) · [Mastery](#mastery-indicator) · [Troubleshooting](#troubleshooting)
 
 **Phase:** 4 — Boundaries, Siblings, Problem-Solving  
 **Duration:** 1 week minimum (repeat if needed)

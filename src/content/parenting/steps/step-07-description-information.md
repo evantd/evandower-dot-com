@@ -7,6 +7,7 @@ phaseName: "Cooperation Without Coercion"
 
 > 📋 **[Quick Reference Card](/parenting/cards/week-07-card/)** — Print this for the fridge
 
+**Jump to:** [Why This Matters](#why-this-matters) · [Track 1: Child](#track-1--child-skill-description-and-information-instead-of-commands) · [Track 2: Parent](#track-2--parent-mini-practice-command-audit) · [Track 3: Environment](#track-3--environment-mini-project-one-visual-support) · [Siblings](#sibling-twist) · [Mastery](#mastery-indicator) · [Troubleshooting](#troubleshooting)
 
 **Phase:** 3 — Cooperation Without Coercion  
 **Duration:** 1 week minimum (repeat if needed)

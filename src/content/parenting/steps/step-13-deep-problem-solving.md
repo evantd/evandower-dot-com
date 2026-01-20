@@ -7,6 +7,8 @@ phaseName: "Advanced Autonomy"
 
 > 📋 **[Quick Reference Card](/parenting/cards/week-13-card/)** — Print this for the fridge
 
+**Jump to:** [Why This Matters](#why-this-matters) · [Track 1: Child](#track-1--child-skill-plan-b-conversations) · [Track 2: Parent](#track-2--parent-mini-practice-replace-consequences-with-curiosity) · [Track 3: Environment](#track-3--environment-mini-project-problem-solving-time) · [Siblings](#sibling-twist) · [Mastery](#mastery-indicator) · [Troubleshooting](#troubleshooting)
+
 **Phase:** 5 — Advanced Autonomy (Extension)  
 **Duration:** 2 weeks minimum (this is a big one)
 
