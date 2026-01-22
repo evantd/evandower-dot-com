@@ -1,6 +1,8 @@
 ---
 import Header from "../components/Header.astro";
 import "../styles/global.css";
+import Analytics from "@vercel/analytics/astro";
+import SpeedInsights from "@vercel/speed-insights/astro";
 const { pageTitle } = Astro.props;
 ---
 
@@ -11,6 +13,8 @@ const { pageTitle } = Astro.props;
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>{pageTitle} - Evan Dower</title>
+    <Analytics />
+    <SpeedInsights />
   </head>
   <body>
     <Header />
