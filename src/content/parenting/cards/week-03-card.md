@@ -16,7 +16,7 @@ You don't have to finish this whole card. If you're wiped: just remove one annoy
 
 ## Toy Reduction
 
-Remove 50-75% of toys:
+Remove 50-75% of toys (or until 5-min cleanup is possible):
 
 | Keep | Remove |
 |------|--------|

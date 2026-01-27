@@ -18,7 +18,7 @@ phaseName: "Regulated Parent, Safer Home"
 
 > **This week, you don't teach your kids anything new. You simplify their environment and add one predictable rhythm.**
 
-That's it. If you're overwhelmed, stop reading here. Move toward a big toy reduction — **up to** 50-75% if possible — and notice what happens. Even a smaller cut is still progress.
+That's it. If you're overwhelmed, stop reading here. Move toward a big toy reduction — **up to** 50-75% if possible — and notice what happens. Even a smaller cut is still progress. The real test: can they clean up what's out in about 5 minutes when cooperative?
 
 ---
 
@@ -131,6 +131,8 @@ If you notice and immediately want to fix:
 **Time:** Up to 1-2 hours total this week (can be broken into 2-4 short chunks)  
 **Goal:** Remove 50-75% of toys + create one visual schedule
 
+The percentage is a starting point, not a target. The real measure: can your child put away all visible toys by themselves in about 5 minutes when cooperative? If yes, you're in the right range. If already rotating, check whether what's *currently out* passes this test.
+
 ### Part 1: The Toy Reduction
 
 In Step 1 you simplified one hotspot; this step you're giving that same simplicity to their main play space.
@@ -209,7 +211,7 @@ Simple script for the 6-year-old: "We're giving your favorite toys more space so
 
 - Do it during nap/school/screen time
 - Start with ONE room or ONE type of toy
-- The 50-75% is a target — 30% is still progress
+- The 50-75% is a starting point — 30% is still progress. The real test: 5-minute cleanup when cooperative.
 - You can always bring things back from rotation
 
 You do not need labeled bins, matching containers, or Pinterest-level organization. Stuff in a trash bag in a closet is completely valid.
@@ -247,6 +249,14 @@ No lengthy explanation needed. The toy disappears, conflict decreases.
 > Environment feels noticeably calmer. You observe fewer toy conflicts.
 
 This isn't a skill you practice — it's an environmental change you notice. Walk into the room and check: Does it feel different? Are transitions easier? Are the kids settling into play more readily?
+
+**How do you know the right amount is out?**
+
+- **5-minute cleanup test:** Can your child put away all visible toys by themselves in about 5 minutes, when they're cooperative? (This tests quantity, not willingness—it's a sizing guide, not a compliance test.)
+- **Deep play emerging:** Are they settling into one activity for 10+ minutes, or still flitting between things?
+- **Category coverage:** Do they still have access to the main types—figures/dolls, building toys, art supplies, movement toys? If a whole category is missing, you may have gone too far.
+
+**If you already rotate toys:** The question isn't "did we remove enough?" but "is what's currently out working?" Run the checks above on whatever is accessible right now.
 
 ---
 
