@@ -1,0 +1,55 @@
+---
+import { getCollection, render } from "astro:content";
+import StudyGuideLayout from "../../layouts/StudyGuideLayout.astro";
+
+export async function getStaticPaths() {
+  const chapters = await getCollection("sevenPrinciples");
+  return chapters.map((ch) => ({
+    params: { id: ch.id },
+    props: { chapter: ch },
+  }));
+}
+
+const { chapter } = Astro.props;
+const { Content } = await render(chapter);
+
+const allChapters = await getCollection("sevenPrinciples");
+const sorted = allChapters.sort((a, b) => a.data.chapter - b.data.chapter);
+const currentIndex = sorted.findIndex((c) => c.id === chapter.id);
+const prev = currentIndex > 0 ? sorted[currentIndex - 1] : null;
+const next = currentIndex < sorted.length - 1 ? sorted[currentIndex + 1] : null;
+---
+
+<StudyGuideLayout frontmatter={chapter.data}>
+  <Content />
+
+  <nav class="chapter-nav">
+    {prev && (
+      <a href={`/seven-principles/${prev.id}/`} class="prev">
+        ← Ch. {prev.data.chapter}: {prev.data.title}
+      </a>
+    )}
+    {next && (
+      <a href={`/seven-principles/${next.id}/`} class="next">
+        Ch. {next.data.chapter}: {next.data.title} →
+      </a>
+    )}
+  </nav>
+</StudyGuideLayout>
+
+<style>
+  .chapter-nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    gap: 1rem;
+  }
+  .chapter-nav a {
+    flex: 1;
+  }
+  .chapter-nav .next {
+    text-align: right;
+  }
+</style>

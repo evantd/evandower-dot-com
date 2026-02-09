@@ -41,4 +41,14 @@ const parentingCards = defineCollection({
   }),
 });
 
-export const collections = { blog, parentingSteps, parentingCompanions, parentingCards };
+const sevenPrinciples = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/seven-principles" }),
+  schema: z.object({
+    title: z.string(),
+    chapter: z.number(),
+    description: z.string().optional(),
+    principle: z.number().optional(),
+  }),
+});
+
+export const collections = { blog, parentingSteps, parentingCompanions, parentingCards, sevenPrinciples };

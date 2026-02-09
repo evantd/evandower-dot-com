@@ -1,0 +1,55 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const pageTitle = "The Seven Principles for Making Marriage Work";
+
+const chapters = await getCollection("sevenPrinciples");
+const sorted = chapters.sort((a, b) => a.data.chapter - b.data.chapter);
+
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <p class="subtitle">A study guide for the book by John Gottman &amp; Nan Silver</p>
+
+  <h2>Chapters</h2>
+  <ol class="chapter-list">
+    {sorted.map((ch) => (
+      <li>
+        <a href={`/seven-principles/${ch.id}/`}>
+          {ch.data.title}
+        </a>
+        {ch.data.principle && <span class="principle-badge">Principle {ch.data.principle}</span>}
+      </li>
+    ))}
+  </ol>
+
+  <h2>How to Use This Guide</h2>
+  <ul>
+    <li>Each chapter page includes a summary, key concepts, and the exercises/quizzes from the book.</li>
+    <li>Work through chapters in order — each builds on the last.</li>
+  </ul>
+</BaseLayout>
+
+<style>
+  .subtitle {
+    color: var(--text-muted);
+    font-style: italic;
+    margin-top: -0.5rem;
+  }
+  .chapter-list {
+    padding-left: 0;
+    list-style: none;
+  }
+  .chapter-list li {
+    padding: 0.4rem 0;
+  }
+  .principle-badge {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    background: var(--bg-header);
+    padding: 0.1rem 0.4rem;
+    border-radius: 3px;
+    white-space: nowrap;
+  }
+</style>

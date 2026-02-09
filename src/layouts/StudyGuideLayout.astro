@@ -1,0 +1,30 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+const { frontmatter, showNav = true } = Astro.props;
+---
+
+<BaseLayout pageTitle={frontmatter.title}>
+  {showNav && (
+    <nav class="study-guide-nav">
+      <a href="/seven-principles/">← Study Guide Home</a>
+    </nav>
+  )}
+  {frontmatter.principle && (
+    <p class="principle-info">
+      Principle {frontmatter.principle}
+    </p>
+  )}
+  <slot />
+</BaseLayout>
+
+<style>
+  .study-guide-nav {
+    margin-bottom: 1rem;
+  }
+  .principle-info {
+    color: var(--accent);
+    font-style: italic;
+    margin-bottom: 1rem;
+  }
+</style>
