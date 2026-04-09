@@ -5,8 +5,6 @@ description: "Adapting a traditional counting song for singing with my children 
 tags: ["parenting", "folk-songs", "waldorf"]
 ---
 
-# Over In The Meadow: Notes on my Adaptation
-
 My twins' Waldorf parent-child class introduced me to "Over In The Meadow," a traditional counting song with roots going back to the 1800s. When I looked up the lyrics later, I discovered dozens of variations—and realized I had strong preferences about which choices work best.
 
 This is my adapted version, with notes on why I made each change.
@@ -17,9 +15,9 @@ This is my adapted version, with notes on why I made each change.
 
 ## Verse 1: Turtle
 
-> Over in the meadow, in the sand, in the sun,
-> Lived a loving father turtle and his little turtle one.
-> "Dig," said the father; "We dig," said the one,
+> Over in the meadow, in the sand, in the sun,<br>
+> Lived a loving father turtle and his little turtle one.<br>
+> "Dig," said the father; "We dig," said the one,<br>
 > So they dug and were happy in the sand, in the sun.
 
 **"Loving father" instead of "old mother"**: The traditional versions always use "old mother." Mothers don't always want to be described as old, and I'm a father. "Loving" shifts the emphasis from age to relationship—what matters is the care, not the demographics.
@@ -30,9 +28,9 @@ This is my adapted version, with notes on why I made each change.
 
 ## Verse 2: Foxes
 
-> Over in the meadow, where the tall grasses grew,
-> Lived a loving father fox and his little foxes two.
-> "Run," said the father; "We run," said the two,
+> Over in the meadow, where the tall grasses grew,<br>
+> Lived a loving father fox and his little foxes two.<br>
+> "Run," said the father; "We run," said the two,<br>
 > So they ran and were happy where the tall grasses grew.
 
 **"Run"** is one of the strong verbs in this version—kids know exactly what to do with their bodies.
@@ -41,9 +39,9 @@ This is my adapted version, with notes on why I made each change.
 
 ## Verse 3: Robins
 
-> Over in the meadow, in a nest in a tree,
-> Lived a loving father robin and his little birdies three.
-> "Sing," said the father; "We sing," said the three,
+> Over in the meadow, in a nest in a tree,<br>
+> Lived a loving father robin and his little birdies three.<br>
+> "Sing," said the father; "We sing," said the three,<br>
 > So they sang and were happy in their nest in the tree.
 
 **"Sing"** is participatory, musical, and something children actually do.
@@ -52,9 +50,9 @@ This is my adapted version, with notes on why I made each change.
 
 ## Verse 4: Chipmunks
 
-> Over in the meadow, in a tall sycamore,
-> Lived a loving father chipmunk and his little chipmunks four.
-> "Climb," said the father; "We climb," said the four,
+> Over in the meadow, in a tall sycamore,<br>
+> Lived a loving father chipmunk and his little chipmunks four.<br>
+> "Climb," said the father; "We climb," said the four,<br>
 > So they climbed and were happy in that tall sycamore.
 
 **"Climb" instead of "play"**: Some versions use "play" here. But "play" is the genus, not a species—the whole song is play. Using "play" as the specific verb fails to differentiate. "Climb" is concrete and embodied; kids can climb on playground equipment, furniture, or each other.
@@ -63,9 +61,9 @@ This is my adapted version, with notes on why I made each change.
 
 ## Verse 5: Bees
 
-> Over in the meadow, in a new little hive,
-> Lived a loving father bee and his honeybees five.
-> "Hum," said the father; "We hum," said the five,
+> Over in the meadow, in a new little hive,<br>
+> Lived a loving father bee and his honeybees five.<br>
+> "Hum," said the father; "We hum," said the five,<br>
 > So they hummed and were happy in their new little hive.
 
 **"Hum" instead of "buzz"**: "Buzz" is onomatopoeia—just noise-making. "Hum" is something you *do* with your voice, sustainably, even musically. Kids can hum along with the melody itself. The best verbs in this song name what the child's body can do, not what sound to make.
@@ -74,9 +72,9 @@ This is my adapted version, with notes on why I made each change.
 
 ## Verse 6: Beavers
 
-> Over in the meadow, in a dam built of sticks,
-> Lived a loving father beaver and his little beavers six.
-> "Build," said the father; "We build," said the six,
+> Over in the meadow, in a dam built of sticks,<br>
+> Lived a loving father beaver and his little beavers six.<br>
+> "Build," said the father; "We build," said the six,<br>
 > So they built and were happy in their dam built of sticks.
 
 **"Build"** translates directly to block play, sand castles, blanket forts—anything constructive.
@@ -85,9 +83,9 @@ This is my adapted version, with notes on why I made each change.
 
 ## Verse 7: Frogs
 
-> Over in the meadow, in the green wet bogs,
-> Lived a loving father froggie and his seven polliwogs.
-> "Swim," said the father; "We swim," said the 'wogs,
+> Over in the meadow, in the green wet bogs,<br>
+> Lived a loving father froggie and his seven polliwogs.<br>
+> "Swim," said the father; "We swim," said the 'wogs,<br>
 > So they swam and were happy in the green wet bogs.
 
 **"Green wet bogs" and "polliwogs"**: I love that this version doesn't force a rhyme with "seven." The Langstaff/Rojankovsky version I encountered uses this construction, and "'wogs" as an abbreviation is playful. The frog verse is about swimming rather than croaking—action over sound.
@@ -96,9 +94,9 @@ This is my adapted version, with notes on why I made each change.
 
 ## Verse 8: Owls
 
-> Over in the meadow, as the day grew late,
-> Lived a loving father owl and his little owls eight.
-> "Wink," said the father; "We wink," said the eight,
+> Over in the meadow, as the day grew late,<br>
+> Lived a loving father owl and his little owls eight.<br>
+> "Wink," said the father; "We wink," said the eight,<br>
 > So they winked and were happy as the day grew late.
 
 **Why keep "wink"?** I initially thought "wink" was too passive compared to the full-body verbs elsewhere. But toddlers are at an age where independent eyelid control is a genuine fine-motor milestone. Winking is *hard* for little kids—they practice it. What reads as passive to adults is actually an engaging motor challenge for the target audience.
@@ -109,9 +107,9 @@ The song covers different scales of action: whole-body (run, hop, climb), manipu
 
 ## Verse 9: Spiders
 
-> Over in the meadow, in a web on a pine,
-> Lived a loving father spider and his little spiders nine.
-> "Spin," said the father; "We spin," said the nine,
+> Over in the meadow, in a web on a pine,<br>
+> Lived a loving father spider and his little spiders nine.<br>
+> "Spin," said the father; "We spin," said the nine,<br>
 > So they spun and were happy in their web on the pine.
 
 **"Spin" works through polysemy**: Spiders spin silk; children spin in circles (or, in Waldorf contexts, spin yarn through finger knitting). The same verb carries both interpretations without forcing one. The child isn't pretending to be a spider—they're doing their own version of spinning, and that's equally legitimate.
@@ -120,9 +118,9 @@ The song covers different scales of action: whole-body (run, hop, climb), manipu
 
 ## Verse 10: Rabbits
 
-> Over in the meadow, in a warm little den,
-> Lived a loving father rabbit and his little bunnies ten.
-> "Hop," said the father; "We hop," said the ten,
+> Over in the meadow, in a warm little den,<br>
+> Lived a loving father rabbit and his little bunnies ten.<br>
+> "Hop," said the father; "We hop," said the ten,<br>
 > So they hopped and were happy in their warm little den.
 
 **"Hop"** is one of the clearest action verbs—pure embodied joy.
