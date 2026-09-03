@@ -20,9 +20,9 @@ phaseName: "Cooperation Without Coercion"
 
 Now that you've built connection during big feelings (Phase 2), we're ready to work on cooperation without coercion (Phase 3).
 
-That's it. If you're overwhelmed, stop reading here. Instead of "Put on your shoes!" try "I see bare feet. We leave in 5 minutes."
+That's it. If you're overwhelmed, stop reading here. Instead of "Put on your shoes!" try "I see bare feet" **or** "We leave in 5 minutes."
 
-If your brain is fried, this is not a "do it perfectly" week. One experiment per day (or less) is enough. Commands are still allowed; we're just gently shifting the ratio over time.
+If your brain is fried, this is not a "do it perfectly" week. One experiment per day (or less) is enough. Commands are still allowed; we're just gently shifting the ratio over time. Description and information are tools to practise, not universal replacements for clear requests or instructions.
 
 > **Remember the order:**
 > 1. Check brain states — flooded or receptive? (Step 1)
@@ -59,53 +59,64 @@ In Steps 5-6, you focused on naming feelings and co-regulating during big emotio
 
 ### The Science (30-second version)
 
-Commands trigger resistance. It's human nature — nobody likes being bossed around.
+Faber and Mazlish present description and information as tools for **engaging cooperation** without blame, accusation, character criticism, threats, or lectures.
 
-When you describe what you see or give information, you:
-- Invite the child to think for themselves
-- Reduce power struggles
-- Preserve their sense of autonomy
-- Keep the relationship collaborative, not adversarial
+Blame makes it hard to concentrate on what needs doing. A factual description can move attention to the external problem and give the child a chance to tell themselves what to do. Information can be easier to receive than accusation and may let the child work out what action fits.
 
-**"Put on your shoes!" = You're in charge, obey.**  
-**"I see bare feet. We leave in 5 minutes." = Here's the situation, you know what to do.**
+**"Put on your shoes!" = a direct command.**
 
-The second approach treats them as capable. Kids rise to meet that expectation.
+**"I see bare feet" or "We leave in 5 minutes" = an invitation to notice the situation and initiate the familiar action.**
+
+The second approach gives children an opportunity to act responsibly without being ordered. It is one tool in the toolbox, not proof that direct language is always wrong.
 
 ### What This Changes
 
-Once you internalize "describe, don't command," you stop:
+As these tools become familiar, you can do less:
 - Repeating yourself endlessly
 - Feeling like a drill sergeant
-- Triggering unnecessary power struggles
+- Turning ordinary problems into blame, criticism, or lectures
 
-You start:
-- Speaking less (fewer words)
-- Inviting cooperation instead of demanding it
-- Noticing kids cooperate more naturally
+And do more:
+- Speaking briefly
+- Inviting cooperation
+- Giving children a chance to notice a problem and respond
 
 ---
 
 ## Track 1 – Child Skill: Description and Information Instead of Commands
 
-### The Formula
+### Three Alternative Tools
 
-1. **Describe what you see** ("I see toys on the floor")
-2. **Give information** ("Toys live in the basket")
-3. **One word** — after pattern is established ("Toys." / "Shoes." / "Teeth.")
-4. **Then wait 10-30 seconds** before saying anything else.
+Choose **one** that fits; these are alternatives, not a sequence:
+
+1. **Describe what you see or the problem:** "I see toys on the floor."
+2. **Give useful information:** "Toys left in the walkway can get stepped on."
+3. **Use a brief reminder when its meaning is already shared:** "Toys." / "Shoes." / "Teeth."
+
+Then try waiting 10-30 seconds before adding more language. Treat that as a starting experiment and adapt to the child and situation.
 
 ### Transformation Examples
 
 | Instead of... | Try Description | Or Information |
 |---------------|-----------------|----------------|
 | "Put on your shoes!" | "I see bare feet." | "We leave in 5 minutes." |
-| "Clean up your toys!" | "I see blocks everywhere." | "When toys are in the basket, we can find them later." |
+| "Clean up your toys!" | "I see blocks in the walkway." | "Blocks in the basket are easier to find later." |
 | "Brush your teeth!" | "I smell breakfast breath." | "Teeth need brushing before stories." |
 | "Come to dinner!" | "I see your plate on the table." | "Dinner is getting cold." |
 | "Stop running inside!" | "I see running feet." | "Inside is for walking. Outside is for running." |
 | "Be quiet!" | "I hear loud voices." | "The baby is sleeping." |
 | "Get dressed!" | "I see pajamas." | "We put on clothes before breakfast." |
+
+### One Tool, Not Every Situation
+
+Description and information intentionally invite the child to infer an action. Use them when that invitation is honest and likely to be understood:
+
+- **New or unclear routine:** Teach it—explain, model, and practise together. "These toys go in this basket. Watch me put one in. Let's do the rest together."
+- **Established, low-stakes routine:** Describe or inform, then wait. "Your lunchbox is still on the table."
+- **Action needed:** State the observation or reason and make a direct request. "Your lunchbox is taking the dinner-plate spot. Please put it on the counter."
+- **Non-negotiable or safety issue:** Give a clear instruction or boundary and help as needed.
+
+Directness and coercion are separate. Do not disguise mandatory action as a neutral observation or optional question, then treat refusal or a missed inference as defiance. [Step 8](/parenting/steps/step-08-choices-play/) adds choices and play; [Step 10](/parenting/steps/step-10-sturdy-leadership/) covers boundaries and safety; [Step 15](/parenting/steps/step-15-requests-vs-demands/) develops honest requests versus demands.
 
 ### Age-Specific Scripts
 
@@ -116,7 +127,7 @@ You start:
 | Won't put on shoes | "I see bare feet! Shoes go on feet." (Touch feet, point to shoes) |
 | Throwing food | "I see food on the floor. Food stays on the plate." |
 | Won't come for diaper | "I see a wet diaper! Dry diaper coming." (Keep it light, playful) |
-| Hitting sibling | "I see hands hitting. Hands are for gentle." (Physically guide if needed) |
+| Blocks in the walkway | "Blocks on the floor." (Point to the already-familiar basket) |
 
 **Keep it VERY simple.** Short sentences. May need physical guidance too — they're still learning words.
 
@@ -129,21 +140,21 @@ You start:
 | Dawdling in morning | "I notice you're not dressed yet. We leave at 7:30." |
 | Didn't clear plate | "Your plate is still on the table." (Wait. Let them figure it out.) |
 
-**The one-word version** (after they know the expectation):
+**The one-word version** (only when they know what the reminder means):
 - "Shoes."
 - "Teeth."
 - "Plate."
 - "Homework."
 
-Less words = less nagging, less resistance.
+The goal is not the fewest possible words. It is a brief cue that remains clear.
 
-For very literal or anxious kids, keep your tone **neutral and matter-of-fact**, not sarcastic. Same words, different tone = very different impact for ND brains.
+Keep your tone **neutral and matter-of-fact**, not sarcastic. The same words can land very differently with a different tone.
 
 ### The Wait
 
 After describing or giving information: **WAIT.**
 
-Don't immediately follow up with more words. Give them 10-30 seconds to process and respond. This is especially important for ND kids.
+Don't immediately follow up with more words. Try 10-30 seconds as a starting point, then adapt to the child and situation.
 
 The wait shows you trust them to figure it out.
 
@@ -151,25 +162,35 @@ If it helps, silently count to 10 or take 3 slow breaths so you don't fill the s
 
 ### ND Adaptation
 
+*This section is a curriculum adaptation, not a Faber claim.* Communication preferences and inferential strategies vary within every neurotype. Personalize the form, context, and processing time.
+
 **Processing time:**
-- Give 10-30 seconds (really) before repeating or adding words
-- ND kids often process language more slowly, especially when attention is elsewhere
+- Try pausing 10-30 seconds before repeating or adding words; observe how much time this child needs
 - If they don't respond, try moving closer or getting on their level before repeating
 
 **Visual supports may help more than words:**
-- Point to the shoes while saying "Feet!"
+- Point to the shoes while giving a clear cue
 - Use picture schedules for routines
 - Some kids need to SEE it, not just hear it — visuals reduce language and working-memory load, which is especially helpful for autistic/ADHD kids
 
 **If auditory processing is an issue:**
-- Fewer words are better (one word is ideal)
-- Get their attention first (say name, gentle touch)
-- Avoid giving important information from another room or while they're focused on a screen; their brain may literally not register it
+- Use the least language that remains unambiguous for this child
+- Get their attention in a way they recognize and accept
+- Avoid giving important information from another room or while their attention is deeply engaged elsewhere
 
-**If the words feel controlling to them anyway:**
-- Try questions: "What goes on feet before we leave?"
-- Try observations: "Hmm, I'm noticing something missing..." (playful tone)
-- For kids who push back on anything that *sounds* like control, keep your voice light and curious. The **tone** matters as much as the words.
+**If playful or collaborative cues help:**
+- Try a genuine question about an established routine: "Do you remember what we need before we can go?" or "What's next?"
+- Try a playful observation: "Hmm, I'm noticing something missing..."
+- Keep your tone light and curious; don't use a question to test or trap them
+
+**If indirect cues confuse or irritate them:**
+- Be more explicit: "We leave in 5 minutes. Please put on your shoes."
+- Don't turn the request into a quiz ("What's missing?") unless this child enjoys that game
+- Treat a missed inference as information about the communication, not defiance
+
+**If a cue still doesn't lead to action:**
+- Stop stacking hints: "It looks like getting started is hard. Do you need connection first, a reminder, or help this time?"
+- If the action is required, clarify it and help rather than blaming them for missing the cue
 
 ---
 
@@ -191,8 +212,6 @@ If it helps, silently count to 10 or take 3 slow breaths so you don't fill the s
 - Notice what happens
 
 ### What You'll Probably Discover
-
-Most parents are shocked at how many commands they give. 50+ per day is not unusual with young kids.
 
 Common patterns:
 - Mornings and transitions have the most commands
@@ -245,7 +264,7 @@ Pick **ONE** recurring issue only. Ignore the rest for now.
 
 ### ND Adaptation
 
-Visuals are especially powerful for ND kids and ND parents: they cut down on talking, memory load, and repeated nagging. Avoid cluttered posters or too many colors; simple, calm visuals are easier for ND brains to use.
+Visuals can reduce talking and memory load for some ND kids and parents. Personalize them: use a format the child understands, and avoid visual clutter when that makes the support harder to use.
 
 ### How to Make It
 
@@ -340,12 +359,14 @@ If that's not happening after a week, stay on Step 7. This is a deep habit chang
 
 A few things might be happening:
 
-- **Not enough wait time:** Give them 10-30 seconds after you speak
+- **Not enough processing time:** Pause before adding more language
 - **Too far away:** Get close before speaking
-- **Attention not on you:** Say their name first, or gentle touch
-- **Expectation not established:** They may not know what "toys in basket" means if they've never done it
+- **Attention not on you:** Get their attention in a way they recognize and accept
+- **Expectation not established:** They may not know what "toys in basket" means if the routine has never been taught and practised
 
-Sometimes you DO have to command (safety, urgency). That's fine. The goal is reduction, not elimination.
+If the expectation is not established, a short cue is an indirect, confusing instruction—not teaching. Show what the routine means: "These toys go in this basket. Watch me put one in. Let's do the rest together." If an established cue still does not land, clarify directly; do not treat failed inference as defiance.
+
+This teach-model-practise guardrail comes from evidence-informed guidance on establishing routines, not from Faber's description tool. Sometimes you also need a direct request, instruction, or safety boundary. The goal is to add another cooperation tool, not eliminate direct language.
 
 ### "This feels too slow for my morning"
 
@@ -373,9 +394,9 @@ If they say "I KNOW we leave in 5 minutes!":
 - "Yep. And I notice feet are still bare." (Neutral, not sarcastic)
 - Then wait. Don't engage the argument.
 
-The point isn't to be right — it's to give information and let them choose.
+The point isn't to win an argument. If the action is optional, give the information and leave room for choice. If it is required, make the request or boundary explicit rather than repeating the hint.
 
-Many ND kids use arguing as a way to process or to feel some control. You can acknowledge their knowledge without dropping the information.
+What sounds like arguing may be this child's way of processing or regaining a sense of control. You can acknowledge their knowledge, then clarify any action you actually need.
 
 ---
 
@@ -386,6 +407,9 @@ Many ND kids use arguing as a way to process or to feel some control. You can ac
 - **How to Talk So Kids Will Listen** (Faber & Mazlish), Chapter 2 — The five skills for engaging cooperation: describe, give information, say it with a word, talk about your feelings, write a note
 - **How to Talk So Little Kids Will Listen** (Faber & King), Chapter 2 — Same skills adapted for toddlers
 - **Nonviolent Communication** (Rosenberg), Chapter 3 — Observation without evaluation
+- **[Teaching routines: Their role in classroom management](https://www.edresearch.edu.au/summaries-explainers/explainers/teaching-routines-their-role-classroom-management)** (AERO) — Evidence synthesis for explicitly explaining, modelling, and practising new routines; used here as a curriculum guardrail
+- **[Understanding indirect requests for information in high-functioning autism](https://doi.org/10.1007/s10339-021-01056-z)** (Marocchini et al., 2022) — Developmental-pragmatics evidence that indirect requests add inferential work and that autistic children may use varied interpretive strategies; not a parenting-intervention study
+- **[Autism overview](https://www.rcslt.org/speech-and-language-therapy/clinical-information/autism/)** (RCSLT) — Co-produced guidance supporting individualized communication and adaptations by everyone involved
 
 ---
 

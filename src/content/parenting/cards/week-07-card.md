@@ -8,28 +8,28 @@ description: "Description & Information - printable reference"
 
 **Describe and inform instead of commanding**
 
-*Invite cooperation. Don't demand obedience.*
+*One cooperation tool—not a ban on direct requests or instructions.*
 
 ---
 
-## The Formula
+## Three Tools (Choose One)
 
-| Step | Example |
+| Tool | Example |
 |------|---------|
-| 1. Describe what you see | "I see bare feet" |
-| 2. Give information | "We leave in 5 minutes" |
-| 3. One word (once established) | "Shoes." |
+| Describe the problem | "I see bare feet." |
+| Give information | "We leave in 5 minutes." |
+| Brief shared reminder | "Shoes." |
 
 ---
 
-## Transformations
+## Match the Situation
 
-| Command | Description/Info |
-|---------|------------------|
-| Put on your shoes! | I see bare feet. We leave in 5 min. |
-| Clean up! | When toys are in basket, we can find them. |
-| Stop running! | Inside is for walking. |
-| Be quiet! | The baby is sleeping. |
+| Situation | Try |
+|-----------|-----|
+| Established, low stakes | "Your lunchbox is still on the table." Then wait. |
+| Action needed | "Your lunchbox is taking the dinner-plate spot. Please put it on the counter." |
+| New toy routine | "These toys go in this basket. Watch me. Let's do it together." |
+| Safety/non-negotiable | Give a clear instruction or boundary and help. |
 
 ---
 
@@ -46,13 +46,13 @@ description: "Description & Information - printable reference"
 
 ```
 SAY LESS
-WAIT MORE
-10-30 SEC PROCESSING TIME
+WAIT 10-30 SECONDS BEFORE ADDING WORDS
 GET CLOSE BEFORE SPEAKING
-USE VISUALS WHEN POSSIBLE
+USE VISUALS WHEN HELPFUL
+IF THE CUE MISSES, CLARIFY OR HELP
 ```
 
-You will still give commands sometimes. That's okay.
+Use the least language that stays clear for this child. Description is one tool; be direct when an action is required. A missed inference is not defiance.
 
 ---
 
