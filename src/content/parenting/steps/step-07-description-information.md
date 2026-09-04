@@ -372,9 +372,7 @@ This teach-model-practise guardrail comes from evidence-informed guidance on est
 
 Start practicing in lower-stakes moments (afternoon, weekends). Once it's more automatic, it'll work in mornings.
 
-In true time-crunch: do what you need to do. Practice when there's margin.
-
-In true time-crunch or meltdown moments: do what you need to survive. This skill is for **practice windows**, not emergencies.
+In a true time-crunch or meltdown, do what you need to do. Practice when there's margin; this skill is for **practice windows**, not emergencies.
 
 ### "Sensory overload is happening"
 
