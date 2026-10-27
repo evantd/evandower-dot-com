@@ -52,7 +52,8 @@ Replace ONE power struggle with play today. Notice what happens.
 ## Environment Task
 
 Audit A days (arousing) vs C days (calming).  
-Add a C half-day after your busiest days.
+Add a C half-day after your busiest days.  
+Calm ≠ indoors: a familiar walk or park often settles kids better than a day inside. Screens aren't automatically calming.
 
 ---
 

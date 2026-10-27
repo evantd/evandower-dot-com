@@ -203,19 +203,24 @@ If you're too flooded to be playful:
 
 ### The Concept
 
-- **A Days (Arousing):** Busy, stimulating, out-of-routine, lots of transitions, new places/people
-- **C Days (Calming):** Slow, predictable, home-based, low-demand
+- **A Days (Arousing):** Overloaded — out of routine, lots of transitions, new places/people, crowds, demands
+- **C Days (Calming):** Predictable, unhurried, low-demand
+
+**Calm doesn't mean indoors or still.** The goal is avoiding *over*stimulation, not stimulation. Many kids need to move outside every day; a "quiet" day stuck at home can leave them stir-crazy. A long walk on a familiar route, with a playground or two along the way, can be the calmest part of the week.
+
+**Screens aren't automatically calming.** Kids look quiet while watching, but fast-paced shows can rev them up: in one study, 9 minutes of a fast-paced cartoon temporarily lowered 4-year-olds' self-control, while a slow-paced cartoon didn't ([Lillard & Peterson, 2011](https://pubmed.ncbi.nlm.nih.gov/21911349/)). Judge screens by how your kids are *afterward*.
 
 ### The Task
 
 1. Look at your typical week (or last week)
-2. Mark each day A or C (or somewhere in between)
+2. Mark each day A or C (or somewhere in between), and note whether they got outside to move
 3. Look for patterns:
    - Two A days in a row? → Harder behavior likely on day 2-3
    - Long stretches without a C day? → Meltdowns accumulate
    - C day after hard events? → Recovery happens
+   - Mostly indoors, little movement? → Stir-crazy behavior, even on "quiet" days
 
-4. **One adjustment:** Can you add even a half-day of "C" after your busiest days?
+4. **One adjustment:** Can you add even a half-day of "C" after your busiest days? Use whatever actually settles your kids — a slow morning at home, or a familiar walk outside.
 
 ### Why This Matters
 
@@ -223,16 +228,17 @@ If you're too flooded to be playful:
 
 - ND kids (and honestly, most kids) need recovery time after high-stimulation days
 - "Misbehavior" often = nervous system still processing yesterday's big outing
+- Recovery looks different for different kids: sensory-seeking kids may settle best with *more* movement (running, climbing, swinging), others need real quiet. Watch what works for each child.
 - You can't always control the schedule, but you can notice patterns
 
 ### Example Week Audit
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
-| A (school, activities) | A (errands, playdate) | C (home day) | A (school) | A (school, family visit) | A (birthday party) | C (slow morning) |
+| A (school, activities) | A (errands, playdate) | C (home day + park) | A (school) | A (school, family visit) | A (birthday party) | C (familiar walk) |
 
 **Pattern spotted:** Friday + Saturday are both A → Sunday meltdowns likely.  
-**Adjustment:** Sunday morning is deliberately unscheduled. No "quick errands." Stay home.
+**Adjustment:** Sunday morning is deliberately unscheduled. No "quick errands," no new places. Out the door by 9–10 for a long walk on a familiar route with a few playgrounds, then a slow afternoon at home.
 
 ---
 
@@ -322,6 +328,7 @@ If they're flooded, the choice was probably too late. Next time try earlier, or 
 - **How to Talk So Kids Will Listen** (Faber & Mazlish), Chapter 3 — Alternatives to punishment: offering choices, taking action
 - **Playful Parenting** (Lawrence Cohen), Chapters 4-6 — Using play to bypass resistance and build connection
 - **How to Talk So Little Kids Will Listen** (Faber & King), Chapter 3 — Playful approaches specifically for toddlers
+- **Simplicity Parenting** (Kim John Payne), Schedules chapter — Source of the A days / C days idea
 
 ---
 
