@@ -235,7 +235,9 @@ If you're too flooded to be playful:
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
-| A (school, activities) | A (errands, playdate) | C (home day + park) | A (school) | A (school, family visit) | A (birthday party) | C (familiar walk) |
+| A (school, activities) | A (errands, playdate) | C (home day + park) | C (school + reading buffer) | A (school, family visit) | A (birthday party) | C (familiar walk) |
+
+*School can count as A or C. Often the transition decides it: a short quiet buffer after pickup (reading together, a snack, a slow walk home) can turn a school day into a C day. Pickup right when kids are hungry or tired tends to make it an A day.*
 
 **Pattern spotted:** Friday + Saturday are both A → Sunday meltdowns likely.  
 **Adjustment:** Sunday morning is deliberately unscheduled. No "quick errands," no new places. Out the door by 9–10 for a long walk on a familiar route with a few playgrounds, then a slow afternoon at home.
